@@ -47,6 +47,18 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td width="96" align="center" valign="middle">
+        <img src="logos/modelcontextprotocol.png" width="72" height="72" alt="MCP">
+      </td>
+      <td valign="middle">
+        <strong><a href="https://github.com/modelcontextprotocol/registry">modelcontextprotocol/registry</a></strong><br>
+        Official registry for MCP servers
+      </td>
+      <td width="220" valign="middle">
+        <a href="https://github.com/modelcontextprotocol/registry/pull/1506">#1506</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="96" align="center" valign="middle">
         <img src="logos/solana-program.png" width="72" height="72" alt="Solana">
       </td>
       <td valign="middle">
@@ -66,18 +78,6 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/solana-program/record/pull/363">record#363</a><br>
         <a href="https://github.com/solana-program/compute-budget/pull/37">compute#37</a> ·
         <a href="https://github.com/solana-program/feature-gate/pull/83">feature#83</a>
-      </td>
-    </tr>
-    <tr>
-      <td width="96" align="center" valign="middle">
-        <img src="logos/modelcontextprotocol.png" width="72" height="72" alt="MCP">
-      </td>
-      <td valign="middle">
-        <strong><a href="https://github.com/modelcontextprotocol/registry">modelcontextprotocol/registry</a></strong><br>
-        Official registry for MCP servers
-      </td>
-      <td width="220" valign="middle">
-        <a href="https://github.com/modelcontextprotocol/registry/pull/1506">#1506</a>
       </td>
     </tr>
     <tr>
