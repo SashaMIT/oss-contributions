@@ -137,7 +137,7 @@ Merged only. Detail lives on each PR.
         Crypto library used by Coldcard hardware wallets
       </td>
       <td width="220" valign="middle">
-        <a href="https://github.com/switck/libngu/pull/65">#65</a>
+        <a href="https://github.com/switck/libngu/pull/65">#65</a> (post hack support)
       </td>
     </tr>
   </tbody>
