@@ -140,6 +140,18 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/switck/libngu/pull/65">#65</a> (post hack support)
       </td>
     </tr>
+    <tr>
+      <td width="96" align="center" valign="middle">
+        <img src="logos/langflow-ai.png" width="72" height="72" alt="Langflow">
+      </td>
+      <td valign="middle">
+        <strong><a href="https://github.com/langflow-ai/langflow">langflow-ai/langflow</a></strong><br>
+        Visual framework for building AI agents and MCP workflows
+      </td>
+      <td width="220" valign="middle">
+        <a href="https://github.com/langflow-ai/langflow/pull/14474">#14474</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
