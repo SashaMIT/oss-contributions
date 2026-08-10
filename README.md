@@ -152,6 +152,18 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/langflow-ai/langflow/pull/14474">#14474</a>
       </td>
     </tr>
+    <tr>
+      <td width="96" align="center" valign="middle">
+        <img src="logos/livekit.png" width="72" height="72" alt="LiveKit">
+      </td>
+      <td valign="middle">
+        <strong><a href="https://github.com/livekit/protocol">livekit/protocol</a></strong><br>
+        Real-time audio/video platform core protocol
+      </td>
+      <td width="220" valign="middle">
+        <a href="https://github.com/livekit/protocol/pull/1706">#1706</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
