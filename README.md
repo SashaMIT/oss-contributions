@@ -164,6 +164,18 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/livekit/protocol/pull/1706">#1706</a>
       </td>
     </tr>
+    <tr>
+      <td width="96" align="center" valign="middle">
+        <img src="logos/stacklok.png" width="72" height="72" alt="Stacklok">
+      </td>
+      <td valign="middle">
+        <strong><a href="https://github.com/stacklok/toolhive">stacklok/toolhive</a></strong><br>
+        MCP server manager for AI agents
+      </td>
+      <td width="220" valign="middle">
+        <a href="https://github.com/stacklok/toolhive/pull/6234">#6234</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
