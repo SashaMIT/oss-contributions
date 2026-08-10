@@ -15,6 +15,30 @@ Merged only. Detail lives on each PR.
   <tbody>
     <tr>
       <td width="96" align="center" valign="middle">
+        <img src="logos/langflow-ai.png" width="72" height="72" alt="Langflow">
+      </td>
+      <td valign="middle">
+        <strong><a href="https://github.com/langflow-ai/langflow">langflow-ai/langflow</a></strong><br>
+        Visual framework for building AI agents and MCP workflows
+      </td>
+      <td width="220" valign="middle">
+        <a href="https://github.com/langflow-ai/langflow/pull/14474">#14474</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="96" align="center" valign="middle">
+        <img src="logos/livekit.png" width="72" height="72" alt="LiveKit">
+      </td>
+      <td valign="middle">
+        <strong><a href="https://github.com/livekit/protocol">livekit/protocol</a></strong><br>
+        Real-time audio/video platform core protocol
+      </td>
+      <td width="220" valign="middle">
+        <a href="https://github.com/livekit/protocol/pull/1706">#1706</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="96" align="center" valign="middle">
         <img src="logos/elizaOS.png" width="72" height="72" alt="elizaOS">
       </td>
       <td valign="middle">
@@ -33,6 +57,18 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td width="96" align="center" valign="middle">
+        <img src="logos/modelcontextprotocol.png" width="72" height="72" alt="MCP">
+      </td>
+      <td valign="middle">
+        <strong><a href="https://github.com/modelcontextprotocol/registry">modelcontextprotocol/registry</a></strong><br>
+        Official registry for MCP servers
+      </td>
+      <td width="220" valign="middle">
+        <a href="https://github.com/modelcontextprotocol/registry/pull/1506">#1506</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="96" align="center" valign="middle">
         <img src="logos/x402-foundation.png" width="72" height="72" alt="x402">
       </td>
       <td valign="middle">
@@ -47,14 +83,14 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td width="96" align="center" valign="middle">
-        <img src="logos/modelcontextprotocol.png" width="72" height="72" alt="MCP">
+        <img src="logos/stacklok.png" width="72" height="72" alt="Stacklok">
       </td>
       <td valign="middle">
-        <strong><a href="https://github.com/modelcontextprotocol/registry">modelcontextprotocol/registry</a></strong><br>
-        Official registry for MCP servers
+        <strong><a href="https://github.com/stacklok/toolhive">stacklok/toolhive</a></strong><br>
+        MCP server manager for AI agents
       </td>
       <td width="220" valign="middle">
-        <a href="https://github.com/modelcontextprotocol/registry/pull/1506">#1506</a>
+        <a href="https://github.com/stacklok/toolhive/pull/6234">#6234</a>
       </td>
     </tr>
     <tr>
@@ -82,18 +118,6 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td width="96" align="center" valign="middle">
-        <img src="logos/langgenius.png" width="72" height="72" alt="Dify">
-      </td>
-      <td valign="middle">
-        <strong><a href="https://github.com/langgenius/dify-plugin-daemon">langgenius/dify-plugin-daemon</a></strong><br>
-        Plugin runtime for the Dify AI platform
-      </td>
-      <td width="220" valign="middle">
-        <a href="https://github.com/langgenius/dify-plugin-daemon/pull/796">#796</a>
-      </td>
-    </tr>
-    <tr>
-      <td width="96" align="center" valign="middle">
         <img src="logos/anza-xyz.png" width="72" height="72" alt="Agave">
       </td>
       <td valign="middle">
@@ -106,14 +130,14 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td width="96" align="center" valign="middle">
-        <img src="logos/hyperlane-xyz.png" width="72" height="72" alt="Hyperlane">
+        <img src="logos/langgenius.png" width="72" height="72" alt="Dify">
       </td>
       <td valign="middle">
-        <strong><a href="https://github.com/hyperlane-xyz/hyperlane-monorepo">hyperlane-xyz/hyperlane-monorepo</a></strong><br>
-        Cross-chain messaging / interoperability
+        <strong><a href="https://github.com/langgenius/dify-plugin-daemon">langgenius/dify-plugin-daemon</a></strong><br>
+        Plugin runtime for the Dify AI platform
       </td>
       <td width="220" valign="middle">
-        <a href="https://github.com/hyperlane-xyz/hyperlane-monorepo/pull/9196">#9196</a>
+        <a href="https://github.com/langgenius/dify-plugin-daemon/pull/796">#796</a>
       </td>
     </tr>
     <tr>
@@ -130,6 +154,18 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td width="96" align="center" valign="middle">
+        <img src="logos/hyperlane-xyz.png" width="72" height="72" alt="Hyperlane">
+      </td>
+      <td valign="middle">
+        <strong><a href="https://github.com/hyperlane-xyz/hyperlane-monorepo">hyperlane-xyz/hyperlane-monorepo</a></strong><br>
+        Cross-chain messaging / interoperability
+      </td>
+      <td width="220" valign="middle">
+        <a href="https://github.com/hyperlane-xyz/hyperlane-monorepo/pull/9196">#9196</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="96" align="center" valign="middle">
         <img src="logos/switck.png" width="72" height="72" alt="Coldcard">
       </td>
       <td valign="middle">
@@ -138,42 +174,6 @@ Merged only. Detail lives on each PR.
       </td>
       <td width="220" valign="middle">
         <a href="https://github.com/switck/libngu/pull/65">#65</a> (post hack support)
-      </td>
-    </tr>
-    <tr>
-      <td width="96" align="center" valign="middle">
-        <img src="logos/langflow-ai.png" width="72" height="72" alt="Langflow">
-      </td>
-      <td valign="middle">
-        <strong><a href="https://github.com/langflow-ai/langflow">langflow-ai/langflow</a></strong><br>
-        Visual framework for building AI agents and MCP workflows
-      </td>
-      <td width="220" valign="middle">
-        <a href="https://github.com/langflow-ai/langflow/pull/14474">#14474</a>
-      </td>
-    </tr>
-    <tr>
-      <td width="96" align="center" valign="middle">
-        <img src="logos/livekit.png" width="72" height="72" alt="LiveKit">
-      </td>
-      <td valign="middle">
-        <strong><a href="https://github.com/livekit/protocol">livekit/protocol</a></strong><br>
-        Real-time audio/video platform core protocol
-      </td>
-      <td width="220" valign="middle">
-        <a href="https://github.com/livekit/protocol/pull/1706">#1706</a>
-      </td>
-    </tr>
-    <tr>
-      <td width="96" align="center" valign="middle">
-        <img src="logos/stacklok.png" width="72" height="72" alt="Stacklok">
-      </td>
-      <td valign="middle">
-        <strong><a href="https://github.com/stacklok/toolhive">stacklok/toolhive</a></strong><br>
-        MCP server manager for AI agents
-      </td>
-      <td width="220" valign="middle">
-        <a href="https://github.com/stacklok/toolhive/pull/6234">#6234</a>
       </td>
     </tr>
   </tbody>
