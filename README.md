@@ -218,6 +218,19 @@ Langflow stays at the top. New projects append at the bottom unless the operator
         <a href="https://github.com/summa-tx/coins/pull/144">#144</a>
       </td>
     </tr>
+    <tr>
+      <td width="96" align="center" valign="middle">
+        <img src="logos/delinea.png" width="72" height="72" alt="Delinea">
+      </td>
+      <td valign="middle">
+        <strong><a href="https://github.com/DelineaXPM/delinea-mcp">DelineaXPM/delinea-mcp</a></strong><br>
+        Delinea Secret Server / Platform MCP server
+      </td>
+      <td width="220" valign="middle">
+        <a href="https://github.com/DelineaXPM/delinea-mcp/pull/56">#56</a>
+        (lands <a href="https://github.com/DelineaXPM/delinea-mcp/pull/52">#52</a>–<a href="https://github.com/DelineaXPM/delinea-mcp/pull/55">#55</a>)
+      </td>
+    </tr>
   </tbody>
 </table>
 
