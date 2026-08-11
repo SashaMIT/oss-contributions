@@ -232,6 +232,18 @@ Langflow stays at the top. New projects append at the bottom unless the operator
         (lands <a href="https://github.com/DelineaXPM/delinea-mcp/pull/52">#52</a>–<a href="https://github.com/DelineaXPM/delinea-mcp/pull/55">#55</a>)
       </td>
     </tr>
+    <tr>
+      <td width="96" align="center" valign="middle">
+        <img src="logos/envoyproxy.png" width="72" height="72" alt="Envoy">
+      </td>
+      <td valign="middle">
+        <strong><a href="https://github.com/envoyproxy/envoy">envoyproxy/envoy</a></strong><br>
+        Cloud-native edge and service proxy
+      </td>
+      <td width="220" valign="middle">
+        <a href="https://github.com/envoyproxy/envoy/pull/46580">#46580</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
