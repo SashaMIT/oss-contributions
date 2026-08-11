@@ -4,7 +4,7 @@ Open-source projects [SashaMIT](https://github.com/SashaMIT) (CEO / Founder, [El
 
 Merged only. Detail lives on each PR.
 
-Ordered by brand recognition for first impression (strongest logos first).
+Langflow stays at the top. New projects append at the bottom unless the operator ranks them higher.
 
 <table>
   <thead>
@@ -15,6 +15,18 @@ Ordered by brand recognition for first impression (strongest logos first).
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td width="96" align="center" valign="middle">
+        <img src="logos/langflow-ai.png" width="72" height="72" alt="Langflow">
+      </td>
+      <td valign="middle">
+        <strong><a href="https://github.com/langflow-ai/langflow">langflow-ai/langflow</a></strong><br>
+        Visual framework for building AI agents and MCP workflows
+      </td>
+      <td width="220" valign="middle">
+        <a href="https://github.com/langflow-ai/langflow/pull/14474">#14474</a>
+      </td>
+    </tr>
     <tr>
       <td width="96" align="center" valign="middle">
         <img src="logos/modelcontextprotocol.png" width="72" height="72" alt="MCP">
@@ -104,18 +116,6 @@ Ordered by brand recognition for first impression (strongest logos first).
       </td>
       <td width="220" valign="middle">
         <a href="https://github.com/livekit/protocol/pull/1706">#1706</a>
-      </td>
-    </tr>
-    <tr>
-      <td width="96" align="center" valign="middle">
-        <img src="logos/langflow-ai.png" width="72" height="72" alt="Langflow">
-      </td>
-      <td valign="middle">
-        <strong><a href="https://github.com/langflow-ai/langflow">langflow-ai/langflow</a></strong><br>
-        Visual framework for building AI agents and MCP workflows
-      </td>
-      <td width="220" valign="middle">
-        <a href="https://github.com/langflow-ai/langflow/pull/14474">#14474</a>
       </td>
     </tr>
     <tr>
