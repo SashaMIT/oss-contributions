@@ -178,7 +178,7 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td width="96" align="center" valign="middle">
-        <img src="logos/moov-io.png" width="72" height="72" alt="Moov">
+        <img src="logos/moov-io.jpg" width="72" height="72" alt="Moov">
       </td>
       <td valign="middle">
         <strong><a href="https://github.com/moov-io/base">moov-io</a></strong><br>
