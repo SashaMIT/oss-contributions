@@ -176,6 +176,22 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/switck/libngu/pull/65">#65</a> (post hack support)
       </td>
     </tr>
+    <tr>
+      <td width="96" align="center" valign="middle">
+        <img src="logos/moov-io.png" width="72" height="72" alt="Moov">
+      </td>
+      <td valign="middle">
+        <strong><a href="https://github.com/moov-io/base">moov-io</a></strong><br>
+        Open-source payment infrastructure (ACH, wire, image cash letter, fed)
+      </td>
+      <td width="220" valign="middle">
+        <a href="https://github.com/moov-io/base/pull/509">base#509</a> (CORS allowlist, base v0.63.0)<br>
+        <a href="https://github.com/moov-io/wire/pull/510">wire#510</a> ·
+        <a href="https://github.com/moov-io/imagecashletter/pull/485">imagecashletter#485</a><br>
+        <a href="https://github.com/moov-io/fed/pull/444">fed#444</a> ·
+        <a href="https://github.com/moov-io/ach/pull/1831">ach#1831</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
