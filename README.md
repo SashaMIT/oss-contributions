@@ -15,6 +15,18 @@ Merged only. Detail lives on each PR.
   <tbody>
     <tr>
       <td width="96" align="center" valign="middle">
+        <img src="logos/summa-tx.png" width="72" height="72" alt="summa">
+      </td>
+      <td valign="middle">
+        <strong><a href="https://github.com/summa-tx/coins">summa-tx/coins</a></strong><br>
+        Bitcoin / BIP32 key and path utilities (coins-bip32)
+      </td>
+      <td width="220" valign="middle">
+        <a href="https://github.com/summa-tx/coins/pull/144">#144</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="96" align="center" valign="middle">
         <img src="logos/interledger.png" width="72" height="72" alt="Interledger">
       </td>
       <td valign="middle">
