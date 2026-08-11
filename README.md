@@ -203,7 +203,8 @@ Langflow stays at the top. New projects append at the bottom unless the operator
         MCP server manager for AI agents
       </td>
       <td width="220" valign="middle">
-        <a href="https://github.com/stacklok/toolhive/pull/6234">#6234</a>
+        <a href="https://github.com/stacklok/toolhive/pull/6234">#6234</a> ·
+        <a href="https://github.com/stacklok/toolhive/pull/6235">#6235</a>
       </td>
     </tr>
     <tr>
