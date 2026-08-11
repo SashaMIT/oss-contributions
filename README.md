@@ -17,6 +17,50 @@ Ordered by brand recognition for first impression (strongest logos first).
   <tbody>
     <tr>
       <td width="96" align="center" valign="middle">
+        <img src="logos/modelcontextprotocol.png" width="72" height="72" alt="MCP">
+      </td>
+      <td valign="middle">
+        <strong><a href="https://github.com/modelcontextprotocol/registry">modelcontextprotocol/registry</a></strong><br>
+        Official registry for MCP servers
+      </td>
+      <td width="220" valign="middle">
+        <a href="https://github.com/modelcontextprotocol/registry/pull/1506">#1506</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="96" align="center" valign="middle">
+        <img src="logos/x402-foundation.png" width="72" height="72" alt="x402">
+      </td>
+      <td valign="middle">
+        <strong><a href="https://github.com/x402-foundation/x402">x402-foundation/x402</a></strong><br>
+        Internet-native payment protocol for APIs/agents
+      </td>
+      <td width="220" valign="middle">
+        <a href="https://github.com/x402-foundation/x402/pull/3034">#3034</a> ·
+        <a href="https://github.com/x402-foundation/x402/pull/3033">#3033</a> ·
+        <a href="https://github.com/x402-foundation/x402/pull/3032">#3032</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="96" align="center" valign="middle">
+        <img src="logos/elizaOS.png" width="72" height="72" alt="elizaOS">
+      </td>
+      <td valign="middle">
+        <strong><a href="https://github.com/elizaOS/eliza">elizaOS/eliza</a></strong><br>
+        AI agent framework
+      </td>
+      <td width="220" valign="middle">
+        <a href="https://github.com/elizaOS/eliza/pull/18009">#18009</a> ·
+        <a href="https://github.com/elizaOS/eliza/pull/18003">#18003</a> ·
+        <a href="https://github.com/elizaOS/eliza/pull/18006">#18006</a> ·
+        <a href="https://github.com/elizaOS/eliza/pull/17978">#17978</a><br>
+        <a href="https://github.com/elizaOS/eliza/pull/17775">#17775</a> ·
+        <a href="https://github.com/elizaOS/eliza/pull/17773">#17773</a> ·
+        <a href="https://github.com/elizaOS/eliza/pull/17748">#17748</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="96" align="center" valign="middle">
         <img src="logos/solana-program.png" width="72" height="72" alt="Solana">
       </td>
       <td valign="middle">
@@ -52,18 +96,6 @@ Ordered by brand recognition for first impression (strongest logos first).
     </tr>
     <tr>
       <td width="96" align="center" valign="middle">
-        <img src="logos/modelcontextprotocol.png" width="72" height="72" alt="MCP">
-      </td>
-      <td valign="middle">
-        <strong><a href="https://github.com/modelcontextprotocol/registry">modelcontextprotocol/registry</a></strong><br>
-        Official registry for MCP servers
-      </td>
-      <td width="220" valign="middle">
-        <a href="https://github.com/modelcontextprotocol/registry/pull/1506">#1506</a>
-      </td>
-    </tr>
-    <tr>
-      <td width="96" align="center" valign="middle">
         <img src="logos/livekit.png" width="72" height="72" alt="LiveKit">
       </td>
       <td valign="middle">
@@ -72,18 +104,6 @@ Ordered by brand recognition for first impression (strongest logos first).
       </td>
       <td width="220" valign="middle">
         <a href="https://github.com/livekit/protocol/pull/1706">#1706</a>
-      </td>
-    </tr>
-    <tr>
-      <td width="96" align="center" valign="middle">
-        <img src="logos/langgenius.png" width="72" height="72" alt="Dify">
-      </td>
-      <td valign="middle">
-        <strong><a href="https://github.com/langgenius/dify-plugin-daemon">langgenius/dify-plugin-daemon</a></strong><br>
-        Plugin runtime for the Dify AI platform
-      </td>
-      <td width="220" valign="middle">
-        <a href="https://github.com/langgenius/dify-plugin-daemon/pull/796">#796</a>
       </td>
     </tr>
     <tr>
@@ -100,32 +120,14 @@ Ordered by brand recognition for first impression (strongest logos first).
     </tr>
     <tr>
       <td width="96" align="center" valign="middle">
-        <img src="logos/elizaOS.png" width="72" height="72" alt="elizaOS">
+        <img src="logos/langgenius.png" width="72" height="72" alt="Dify">
       </td>
       <td valign="middle">
-        <strong><a href="https://github.com/elizaOS/eliza">elizaOS/eliza</a></strong><br>
-        AI agent framework
+        <strong><a href="https://github.com/langgenius/dify-plugin-daemon">langgenius/dify-plugin-daemon</a></strong><br>
+        Plugin runtime for the Dify AI platform
       </td>
       <td width="220" valign="middle">
-        <a href="https://github.com/elizaOS/eliza/pull/18009">#18009</a> ·
-        <a href="https://github.com/elizaOS/eliza/pull/18003">#18003</a> ·
-        <a href="https://github.com/elizaOS/eliza/pull/18006">#18006</a> ·
-        <a href="https://github.com/elizaOS/eliza/pull/17978">#17978</a><br>
-        <a href="https://github.com/elizaOS/eliza/pull/17775">#17775</a> ·
-        <a href="https://github.com/elizaOS/eliza/pull/17773">#17773</a> ·
-        <a href="https://github.com/elizaOS/eliza/pull/17748">#17748</a>
-      </td>
-    </tr>
-    <tr>
-      <td width="96" align="center" valign="middle">
-        <img src="logos/hiero-ledger.png" width="72" height="72" alt="Hiero">
-      </td>
-      <td valign="middle">
-        <strong><a href="https://github.com/hiero-ledger/hiero-consensus-node">hiero-ledger/hiero-consensus-node</a></strong><br>
-        Hedera / Hiero consensus node
-      </td>
-      <td width="220" valign="middle">
-        <a href="https://github.com/hiero-ledger/hiero-consensus-node/pull/26713">#26713</a>
+        <a href="https://github.com/langgenius/dify-plugin-daemon/pull/796">#796</a>
       </td>
     </tr>
     <tr>
@@ -138,6 +140,18 @@ Ordered by brand recognition for first impression (strongest logos first).
       </td>
       <td width="220" valign="middle">
         <a href="https://github.com/interledger/rafiki/pull/3962">#3962</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="96" align="center" valign="middle">
+        <img src="logos/hiero-ledger.png" width="72" height="72" alt="Hiero">
+      </td>
+      <td valign="middle">
+        <strong><a href="https://github.com/hiero-ledger/hiero-consensus-node">hiero-ledger/hiero-consensus-node</a></strong><br>
+        Hedera / Hiero consensus node
+      </td>
+      <td width="220" valign="middle">
+        <a href="https://github.com/hiero-ledger/hiero-consensus-node/pull/26713">#26713</a>
       </td>
     </tr>
     <tr>
@@ -166,20 +180,6 @@ Ordered by brand recognition for first impression (strongest logos first).
       </td>
       <td width="220" valign="middle">
         <a href="https://github.com/switck/libngu/pull/65">#65</a> (post hack support)
-      </td>
-    </tr>
-    <tr>
-      <td width="96" align="center" valign="middle">
-        <img src="logos/x402-foundation.png" width="72" height="72" alt="x402">
-      </td>
-      <td valign="middle">
-        <strong><a href="https://github.com/x402-foundation/x402">x402-foundation/x402</a></strong><br>
-        Internet-native payment protocol for APIs/agents
-      </td>
-      <td width="220" valign="middle">
-        <a href="https://github.com/x402-foundation/x402/pull/3034">#3034</a> ·
-        <a href="https://github.com/x402-foundation/x402/pull/3033">#3033</a> ·
-        <a href="https://github.com/x402-foundation/x402/pull/3032">#3032</a>
       </td>
     </tr>
     <tr>
