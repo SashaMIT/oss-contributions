@@ -15,6 +15,18 @@ Merged only. Detail lives on each PR.
   <tbody>
     <tr>
       <td width="96" align="center" valign="middle">
+        <img src="logos/interledger.png" width="72" height="72" alt="Interledger">
+      </td>
+      <td valign="middle">
+        <strong><a href="https://github.com/interledger/rafiki">interledger/rafiki</a></strong><br>
+        Open Payments / Interledger wallet and account-servicing entity toolkit
+      </td>
+      <td width="220" valign="middle">
+        <a href="https://github.com/interledger/rafiki/pull/3962">#3962</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="96" align="center" valign="middle">
         <img src="logos/langflow-ai.png" width="72" height="72" alt="Langflow">
       </td>
       <td valign="middle">
