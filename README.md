@@ -4,6 +4,8 @@ Open-source projects [SashaMIT](https://github.com/SashaMIT) (CEO / Founder, [El
 
 Merged only. Detail lives on each PR.
 
+Ordered by brand recognition for first impression (strongest logos first).
+
 <table>
   <thead>
     <tr>
@@ -13,110 +15,6 @@ Merged only. Detail lives on each PR.
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td width="96" align="center" valign="middle">
-        <img src="logos/summa-tx.png" width="72" height="72" alt="summa">
-      </td>
-      <td valign="middle">
-        <strong><a href="https://github.com/summa-tx/coins">summa-tx/coins</a></strong><br>
-        Bitcoin / BIP32 key and path utilities (coins-bip32)
-      </td>
-      <td width="220" valign="middle">
-        <a href="https://github.com/summa-tx/coins/pull/144">#144</a>
-      </td>
-    </tr>
-    <tr>
-      <td width="96" align="center" valign="middle">
-        <img src="logos/interledger.png" width="72" height="72" alt="Interledger">
-      </td>
-      <td valign="middle">
-        <strong><a href="https://github.com/interledger/rafiki">interledger/rafiki</a></strong><br>
-        Open Payments / Interledger wallet and account-servicing entity toolkit
-      </td>
-      <td width="220" valign="middle">
-        <a href="https://github.com/interledger/rafiki/pull/3962">#3962</a>
-      </td>
-    </tr>
-    <tr>
-      <td width="96" align="center" valign="middle">
-        <img src="logos/langflow-ai.png" width="72" height="72" alt="Langflow">
-      </td>
-      <td valign="middle">
-        <strong><a href="https://github.com/langflow-ai/langflow">langflow-ai/langflow</a></strong><br>
-        Visual framework for building AI agents and MCP workflows
-      </td>
-      <td width="220" valign="middle">
-        <a href="https://github.com/langflow-ai/langflow/pull/14474">#14474</a>
-      </td>
-    </tr>
-    <tr>
-      <td width="96" align="center" valign="middle">
-        <img src="logos/livekit.png" width="72" height="72" alt="LiveKit">
-      </td>
-      <td valign="middle">
-        <strong><a href="https://github.com/livekit/protocol">livekit/protocol</a></strong><br>
-        Real-time audio/video platform core protocol
-      </td>
-      <td width="220" valign="middle">
-        <a href="https://github.com/livekit/protocol/pull/1706">#1706</a>
-      </td>
-    </tr>
-    <tr>
-      <td width="96" align="center" valign="middle">
-        <img src="logos/elizaOS.png" width="72" height="72" alt="elizaOS">
-      </td>
-      <td valign="middle">
-        <strong><a href="https://github.com/elizaOS/eliza">elizaOS/eliza</a></strong><br>
-        AI agent framework
-      </td>
-      <td width="220" valign="middle">
-        <a href="https://github.com/elizaOS/eliza/pull/18009">#18009</a> ·
-        <a href="https://github.com/elizaOS/eliza/pull/18003">#18003</a> ·
-        <a href="https://github.com/elizaOS/eliza/pull/18006">#18006</a> ·
-        <a href="https://github.com/elizaOS/eliza/pull/17978">#17978</a><br>
-        <a href="https://github.com/elizaOS/eliza/pull/17775">#17775</a> ·
-        <a href="https://github.com/elizaOS/eliza/pull/17773">#17773</a> ·
-        <a href="https://github.com/elizaOS/eliza/pull/17748">#17748</a>
-      </td>
-    </tr>
-    <tr>
-      <td width="96" align="center" valign="middle">
-        <img src="logos/modelcontextprotocol.png" width="72" height="72" alt="MCP">
-      </td>
-      <td valign="middle">
-        <strong><a href="https://github.com/modelcontextprotocol/registry">modelcontextprotocol/registry</a></strong><br>
-        Official registry for MCP servers
-      </td>
-      <td width="220" valign="middle">
-        <a href="https://github.com/modelcontextprotocol/registry/pull/1506">#1506</a>
-      </td>
-    </tr>
-    <tr>
-      <td width="96" align="center" valign="middle">
-        <img src="logos/x402-foundation.png" width="72" height="72" alt="x402">
-      </td>
-      <td valign="middle">
-        <strong><a href="https://github.com/x402-foundation/x402">x402-foundation/x402</a></strong><br>
-        Internet-native payment protocol for APIs/agents
-      </td>
-      <td width="220" valign="middle">
-        <a href="https://github.com/x402-foundation/x402/pull/3034">#3034</a> ·
-        <a href="https://github.com/x402-foundation/x402/pull/3033">#3033</a> ·
-        <a href="https://github.com/x402-foundation/x402/pull/3032">#3032</a>
-      </td>
-    </tr>
-    <tr>
-      <td width="96" align="center" valign="middle">
-        <img src="logos/stacklok.png" width="72" height="72" alt="Stacklok">
-      </td>
-      <td valign="middle">
-        <strong><a href="https://github.com/stacklok/toolhive">stacklok/toolhive</a></strong><br>
-        MCP server manager for AI agents
-      </td>
-      <td width="220" valign="middle">
-        <a href="https://github.com/stacklok/toolhive/pull/6234">#6234</a>
-      </td>
-    </tr>
     <tr>
       <td width="96" align="center" valign="middle">
         <img src="logos/solana-program.png" width="72" height="72" alt="Solana">
@@ -154,6 +52,30 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td width="96" align="center" valign="middle">
+        <img src="logos/modelcontextprotocol.png" width="72" height="72" alt="MCP">
+      </td>
+      <td valign="middle">
+        <strong><a href="https://github.com/modelcontextprotocol/registry">modelcontextprotocol/registry</a></strong><br>
+        Official registry for MCP servers
+      </td>
+      <td width="220" valign="middle">
+        <a href="https://github.com/modelcontextprotocol/registry/pull/1506">#1506</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="96" align="center" valign="middle">
+        <img src="logos/livekit.png" width="72" height="72" alt="LiveKit">
+      </td>
+      <td valign="middle">
+        <strong><a href="https://github.com/livekit/protocol">livekit/protocol</a></strong><br>
+        Real-time audio/video platform core protocol
+      </td>
+      <td width="220" valign="middle">
+        <a href="https://github.com/livekit/protocol/pull/1706">#1706</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="96" align="center" valign="middle">
         <img src="logos/langgenius.png" width="72" height="72" alt="Dify">
       </td>
       <td valign="middle">
@@ -162,6 +84,36 @@ Merged only. Detail lives on each PR.
       </td>
       <td width="220" valign="middle">
         <a href="https://github.com/langgenius/dify-plugin-daemon/pull/796">#796</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="96" align="center" valign="middle">
+        <img src="logos/langflow-ai.png" width="72" height="72" alt="Langflow">
+      </td>
+      <td valign="middle">
+        <strong><a href="https://github.com/langflow-ai/langflow">langflow-ai/langflow</a></strong><br>
+        Visual framework for building AI agents and MCP workflows
+      </td>
+      <td width="220" valign="middle">
+        <a href="https://github.com/langflow-ai/langflow/pull/14474">#14474</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="96" align="center" valign="middle">
+        <img src="logos/elizaOS.png" width="72" height="72" alt="elizaOS">
+      </td>
+      <td valign="middle">
+        <strong><a href="https://github.com/elizaOS/eliza">elizaOS/eliza</a></strong><br>
+        AI agent framework
+      </td>
+      <td width="220" valign="middle">
+        <a href="https://github.com/elizaOS/eliza/pull/18009">#18009</a> ·
+        <a href="https://github.com/elizaOS/eliza/pull/18003">#18003</a> ·
+        <a href="https://github.com/elizaOS/eliza/pull/18006">#18006</a> ·
+        <a href="https://github.com/elizaOS/eliza/pull/17978">#17978</a><br>
+        <a href="https://github.com/elizaOS/eliza/pull/17775">#17775</a> ·
+        <a href="https://github.com/elizaOS/eliza/pull/17773">#17773</a> ·
+        <a href="https://github.com/elizaOS/eliza/pull/17748">#17748</a>
       </td>
     </tr>
     <tr>
@@ -178,26 +130,14 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td width="96" align="center" valign="middle">
-        <img src="logos/hyperlane-xyz.png" width="72" height="72" alt="Hyperlane">
+        <img src="logos/interledger.png" width="72" height="72" alt="Interledger">
       </td>
       <td valign="middle">
-        <strong><a href="https://github.com/hyperlane-xyz/hyperlane-monorepo">hyperlane-xyz/hyperlane-monorepo</a></strong><br>
-        Cross-chain messaging / interoperability
+        <strong><a href="https://github.com/interledger/rafiki">interledger/rafiki</a></strong><br>
+        Open Payments / Interledger wallet and account-servicing entity toolkit
       </td>
       <td width="220" valign="middle">
-        <a href="https://github.com/hyperlane-xyz/hyperlane-monorepo/pull/9196">#9196</a>
-      </td>
-    </tr>
-    <tr>
-      <td width="96" align="center" valign="middle">
-        <img src="logos/switck.png" width="72" height="72" alt="Coldcard">
-      </td>
-      <td valign="middle">
-        <strong><a href="https://github.com/switck/libngu">switck/libngu</a></strong><br>
-        Crypto library used by Coldcard hardware wallets
-      </td>
-      <td width="220" valign="middle">
-        <a href="https://github.com/switck/libngu/pull/65">#65</a> (post hack support)
+        <a href="https://github.com/interledger/rafiki/pull/3962">#3962</a>
       </td>
     </tr>
     <tr>
@@ -214,6 +154,68 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/moov-io/imagecashletter/pull/485">imagecashletter#485</a><br>
         <a href="https://github.com/moov-io/fed/pull/444">fed#444</a> ·
         <a href="https://github.com/moov-io/ach/pull/1831">ach#1831</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="96" align="center" valign="middle">
+        <img src="logos/switck.png" width="72" height="72" alt="Coldcard">
+      </td>
+      <td valign="middle">
+        <strong><a href="https://github.com/switck/libngu">switck/libngu</a></strong><br>
+        Crypto library used by Coldcard hardware wallets
+      </td>
+      <td width="220" valign="middle">
+        <a href="https://github.com/switck/libngu/pull/65">#65</a> (post hack support)
+      </td>
+    </tr>
+    <tr>
+      <td width="96" align="center" valign="middle">
+        <img src="logos/x402-foundation.png" width="72" height="72" alt="x402">
+      </td>
+      <td valign="middle">
+        <strong><a href="https://github.com/x402-foundation/x402">x402-foundation/x402</a></strong><br>
+        Internet-native payment protocol for APIs/agents
+      </td>
+      <td width="220" valign="middle">
+        <a href="https://github.com/x402-foundation/x402/pull/3034">#3034</a> ·
+        <a href="https://github.com/x402-foundation/x402/pull/3033">#3033</a> ·
+        <a href="https://github.com/x402-foundation/x402/pull/3032">#3032</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="96" align="center" valign="middle">
+        <img src="logos/hyperlane-xyz.png" width="72" height="72" alt="Hyperlane">
+      </td>
+      <td valign="middle">
+        <strong><a href="https://github.com/hyperlane-xyz/hyperlane-monorepo">hyperlane-xyz/hyperlane-monorepo</a></strong><br>
+        Cross-chain messaging / interoperability
+      </td>
+      <td width="220" valign="middle">
+        <a href="https://github.com/hyperlane-xyz/hyperlane-monorepo/pull/9196">#9196</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="96" align="center" valign="middle">
+        <img src="logos/stacklok.png" width="72" height="72" alt="Stacklok">
+      </td>
+      <td valign="middle">
+        <strong><a href="https://github.com/stacklok/toolhive">stacklok/toolhive</a></strong><br>
+        MCP server manager for AI agents
+      </td>
+      <td width="220" valign="middle">
+        <a href="https://github.com/stacklok/toolhive/pull/6234">#6234</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="96" align="center" valign="middle">
+        <img src="logos/summa-tx.png" width="72" height="72" alt="summa">
+      </td>
+      <td valign="middle">
+        <strong><a href="https://github.com/summa-tx/coins">summa-tx/coins</a></strong><br>
+        Bitcoin / BIP32 key and path utilities (coins-bip32)
+      </td>
+      <td width="220" valign="middle">
+        <a href="https://github.com/summa-tx/coins/pull/144">#144</a>
       </td>
     </tr>
   </tbody>
