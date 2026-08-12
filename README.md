@@ -161,11 +161,13 @@ Merged only. Detail lives on each PR.
         Open-source payment infrastructure (ACH, wire, image cash letter, fed)
       </td>
       <td width="220" valign="middle">
-        <a href="https://github.com/moov-io/base/pull/509">base#509</a> (CORS allowlist, base v0.63.0)<br>
+        <a href="https://github.com/moov-io/base/pull/509">base#509</a> (CORS allowlist, base v0.63.0) ·
+        <a href="https://github.com/moov-io/base/pull/512">base#512</a><br>
         <a href="https://github.com/moov-io/wire/pull/510">wire#510</a> ·
         <a href="https://github.com/moov-io/imagecashletter/pull/485">imagecashletter#485</a><br>
         <a href="https://github.com/moov-io/fed/pull/444">fed#444</a> ·
-        <a href="https://github.com/moov-io/ach/pull/1831">ach#1831</a>
+        <a href="https://github.com/moov-io/ach/pull/1831">ach#1831</a> ·
+        <a href="https://github.com/moov-io/ach/pull/1834">ach#1834</a>
       </td>
     </tr>
     <tr>
