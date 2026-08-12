@@ -267,6 +267,30 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/onchain-id/solidity/pull/170">#170</a>
       </td>
     </tr>
+    <tr>
+      <td width="96" align="center" valign="middle">
+        <img src="logos/bytecodealliance.png" width="72" height="72" alt="Wasmtime">
+      </td>
+      <td valign="middle">
+        <strong><a href="https://github.com/bytecodealliance/wasmtime">bytecodealliance/wasmtime</a></strong><br>
+        Fast and secure WebAssembly runtime
+      </td>
+      <td width="220" valign="middle">
+        <a href="https://github.com/bytecodealliance/wasmtime/pull/14123">#14123</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="96" align="center" valign="middle">
+        <img src="logos/elementsproject.png" width="72" height="72" alt="Core Lightning">
+      </td>
+      <td valign="middle">
+        <strong><a href="https://github.com/ElementsProject/lightning">ElementsProject/lightning</a></strong><br>
+        Core Lightning (CLN)
+      </td>
+      <td width="220" valign="middle">
+        <a href="https://github.com/ElementsProject/lightning/pull/9383">#9383</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
