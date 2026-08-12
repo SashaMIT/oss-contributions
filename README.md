@@ -245,6 +245,18 @@ Langflow stays at the top. New projects append at the bottom unless the operator
         <a href="https://github.com/envoyproxy/envoy/pull/46580">#46580</a>
       </td>
     </tr>
+    <tr>
+      <td width="96" align="center" valign="middle">
+        <img src="logos/openpubkey.png" width="72" height="72" alt="OpenPubkey">
+      </td>
+      <td valign="middle">
+        <strong><a href="https://github.com/openpubkey/opkssh">openpubkey/opkssh</a></strong><br>
+        SSH with OpenID Connect (OPK-SSH)
+      </td>
+      <td width="220" valign="middle">
+        <a href="https://github.com/openpubkey/opkssh/pull/601">#601</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
