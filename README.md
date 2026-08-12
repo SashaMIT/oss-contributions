@@ -4,8 +4,6 @@ Open-source projects [SashaMIT](https://github.com/SashaMIT) (CEO / Founder, [El
 
 Merged only. Detail lives on each PR.
 
-Langflow stays at the top. New projects append at the bottom unless the operator ranks them higher.
-
 <table>
   <thead>
     <tr>
