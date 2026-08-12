@@ -257,6 +257,18 @@ Langflow stays at the top. New projects append at the bottom unless the operator
         <a href="https://github.com/openpubkey/opkssh/pull/601">#601</a>
       </td>
     </tr>
+    <tr>
+      <td width="96" align="center" valign="middle">
+        <img src="logos/onchain-id.png" width="72" height="72" alt="OnchainID">
+      </td>
+      <td valign="middle">
+        <strong><a href="https://github.com/onchain-id/solidity">onchain-id/solidity</a></strong><br>
+        Decentralized identity protocol (ONCHAINID)
+      </td>
+      <td width="220" valign="middle">
+        <a href="https://github.com/onchain-id/solidity/pull/170">#170</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
