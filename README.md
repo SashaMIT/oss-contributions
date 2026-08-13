@@ -179,7 +179,8 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/moov-io/imagecashletter/pull/485">imagecashletter#485</a><br>
         <a href="https://github.com/moov-io/fed/pull/444">fed#444</a> ·
         <a href="https://github.com/moov-io/ach/pull/1831">ach#1831</a> ·
-        <a href="https://github.com/moov-io/ach/pull/1834">ach#1834</a>
+        <a href="https://github.com/moov-io/ach/pull/1834">ach#1834</a><br>
+        <a href="https://github.com/moov-io/iso8583/pull/427">iso8583#427</a>
       </td>
     </tr>
     <tr>
