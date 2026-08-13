@@ -15,7 +15,7 @@ Merged only. Detail lives on each PR.
   <tbody>
     <tr>
       <td width="96" align="center" valign="middle">
-        <img src="logos/langflow-ai.png" width="72" height="72" alt="Langflow">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/langflow-ai.png" width="72" height="72" alt="Langflow">
       </td>
       <td valign="middle">
         <strong><a href="https://github.com/langflow-ai/langflow">langflow-ai/langflow</a></strong><br>
@@ -27,7 +27,7 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td width="96" align="center" valign="middle">
-        <img src="logos/modelcontextprotocol.png" width="72" height="72" alt="MCP">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/modelcontextprotocol.png" width="72" height="72" alt="MCP">
       </td>
       <td valign="middle">
         <strong><a href="https://github.com/modelcontextprotocol/registry">modelcontextprotocol/registry</a></strong><br>
@@ -39,7 +39,7 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td width="96" align="center" valign="middle">
-        <img src="logos/x402-foundation.png" width="72" height="72" alt="x402">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/x402-foundation.png" width="72" height="72" alt="x402">
       </td>
       <td valign="middle">
         <strong><a href="https://github.com/x402-foundation/x402">x402-foundation/x402</a></strong><br>
@@ -53,7 +53,7 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td width="96" align="center" valign="middle">
-        <img src="logos/elizaOS.png" width="72" height="72" alt="elizaOS">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/elizaOS.png" width="72" height="72" alt="elizaOS">
       </td>
       <td valign="middle">
         <strong><a href="https://github.com/elizaOS/eliza">elizaOS/eliza</a></strong><br>
@@ -71,7 +71,19 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td width="96" align="center" valign="middle">
-        <img src="logos/solana-program.png" width="72" height="72" alt="Solana">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/cloudflare.png" width="72" height="72" alt="Cloudflare">
+      </td>
+      <td valign="middle">
+        <strong><a href="https://github.com/cloudflare/web-bot-auth">cloudflare/web-bot-auth</a></strong><br>
+        HTTP message signatures for authenticating bots and agents
+      </td>
+      <td width="220" valign="middle">
+        <a href="https://github.com/cloudflare/web-bot-auth/pull/125">#125</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="96" align="center" valign="middle">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/solana-program.png" width="72" height="72" alt="Solana">
       </td>
       <td valign="middle">
         <strong><a href="https://github.com/solana-program">solana-program</a></strong><br>
@@ -94,7 +106,7 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td width="96" align="center" valign="middle">
-        <img src="logos/anza-xyz.png" width="72" height="72" alt="Agave">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/anza-xyz.png" width="72" height="72" alt="Agave">
       </td>
       <td valign="middle">
         <strong><a href="https://github.com/anza-xyz/agave">anza-xyz/agave</a></strong><br>
@@ -106,7 +118,7 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td width="96" align="center" valign="middle">
-        <img src="logos/livekit.png" width="72" height="72" alt="LiveKit">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/livekit.png" width="72" height="72" alt="LiveKit">
       </td>
       <td valign="middle">
         <strong><a href="https://github.com/livekit/protocol">livekit/protocol</a></strong><br>
@@ -118,7 +130,7 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td width="96" align="center" valign="middle">
-        <img src="logos/langgenius.png" width="72" height="72" alt="Dify">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/langgenius.png" width="72" height="72" alt="Dify">
       </td>
       <td valign="middle">
         <strong><a href="https://github.com/langgenius/dify-plugin-daemon">langgenius/dify-plugin-daemon</a></strong><br>
@@ -130,7 +142,7 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td width="96" align="center" valign="middle">
-        <img src="logos/interledger.png" width="72" height="72" alt="Interledger">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/interledger.png" width="72" height="72" alt="Interledger">
       </td>
       <td valign="middle">
         <strong><a href="https://github.com/interledger/rafiki">interledger/rafiki</a></strong><br>
@@ -142,7 +154,7 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td width="96" align="center" valign="middle">
-        <img src="logos/hiero-ledger.png" width="72" height="72" alt="Hiero">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/hiero-ledger.png" width="72" height="72" alt="Hiero">
       </td>
       <td valign="middle">
         <strong><a href="https://github.com/hiero-ledger/hiero-consensus-node">hiero-ledger/hiero-consensus-node</a></strong><br>
@@ -154,7 +166,7 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td width="96" align="center" valign="middle">
-        <img src="logos/moov-io.jpg" width="72" height="72" alt="Moov">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/moov-io.jpg" width="72" height="72" alt="Moov">
       </td>
       <td valign="middle">
         <strong><a href="https://github.com/moov-io/base">moov-io</a></strong><br>
@@ -172,7 +184,7 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td width="96" align="center" valign="middle">
-        <img src="logos/switck.png" width="72" height="72" alt="Coldcard">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/switck.png" width="72" height="72" alt="Coldcard">
       </td>
       <td valign="middle">
         <strong><a href="https://github.com/switck/libngu">switck/libngu</a></strong><br>
@@ -184,7 +196,7 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td width="96" align="center" valign="middle">
-        <img src="logos/hyperlane-xyz.png" width="72" height="72" alt="Hyperlane">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/hyperlane-xyz.png" width="72" height="72" alt="Hyperlane">
       </td>
       <td valign="middle">
         <strong><a href="https://github.com/hyperlane-xyz/hyperlane-monorepo">hyperlane-xyz/hyperlane-monorepo</a></strong><br>
@@ -196,7 +208,7 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td width="96" align="center" valign="middle">
-        <img src="logos/stacklok.png" width="72" height="72" alt="Stacklok">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/stacklok.png" width="72" height="72" alt="Stacklok">
       </td>
       <td valign="middle">
         <strong><a href="https://github.com/stacklok/toolhive">stacklok/toolhive</a></strong><br>
@@ -210,7 +222,7 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td width="96" align="center" valign="middle">
-        <img src="logos/summa-tx.png" width="72" height="72" alt="summa">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/summa-tx.png" width="72" height="72" alt="summa">
       </td>
       <td valign="middle">
         <strong><a href="https://github.com/summa-tx/coins">summa-tx/coins</a></strong><br>
@@ -222,7 +234,7 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td width="96" align="center" valign="middle">
-        <img src="logos/delinea.png" width="72" height="72" alt="Delinea">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/delinea.png" width="72" height="72" alt="Delinea">
       </td>
       <td valign="middle">
         <strong><a href="https://github.com/DelineaXPM/delinea-mcp">DelineaXPM/delinea-mcp</a></strong><br>
@@ -235,7 +247,7 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td width="96" align="center" valign="middle">
-        <img src="logos/envoyproxy.png" width="72" height="72" alt="Envoy">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/envoyproxy.png" width="72" height="72" alt="Envoy">
       </td>
       <td valign="middle">
         <strong><a href="https://github.com/envoyproxy/envoy">envoyproxy/envoy</a></strong><br>
@@ -247,7 +259,7 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td width="96" align="center" valign="middle">
-        <img src="logos/openpubkey.png" width="72" height="72" alt="OpenPubkey">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/openpubkey.png" width="72" height="72" alt="OpenPubkey">
       </td>
       <td valign="middle">
         <strong><a href="https://github.com/openpubkey/opkssh">openpubkey/opkssh</a></strong><br>
@@ -259,7 +271,7 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td width="96" align="center" valign="middle">
-        <img src="logos/onchain-id.png" width="72" height="72" alt="OnchainID">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/onchain-id.png" width="72" height="72" alt="OnchainID">
       </td>
       <td valign="middle">
         <strong><a href="https://github.com/onchain-id/solidity">onchain-id/solidity</a></strong><br>
@@ -271,7 +283,7 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td width="96" align="center" valign="middle">
-        <img src="logos/bytecodealliance.png" width="72" height="72" alt="Wasmtime">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/bytecodealliance.png" width="72" height="72" alt="Wasmtime">
       </td>
       <td valign="middle">
         <strong><a href="https://github.com/bytecodealliance/wasmtime">bytecodealliance/wasmtime</a></strong><br>
@@ -283,7 +295,7 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td width="96" align="center" valign="middle">
-        <img src="logos/elementsproject.png" width="72" height="72" alt="Core Lightning">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/elementsproject.png" width="72" height="72" alt="Core Lightning">
       </td>
       <td valign="middle">
         <strong><a href="https://github.com/ElementsProject/lightning">ElementsProject/lightning</a></strong><br>
@@ -291,18 +303,6 @@ Merged only. Detail lives on each PR.
       </td>
       <td width="220" valign="middle">
         <a href="https://github.com/ElementsProject/lightning/pull/9383">#9383</a>
-      </td>
-    </tr>
-    <tr>
-      <td width="96" align="center" valign="middle">
-        <img src="logos/cloudflare.png" width="72" height="72" alt="Cloudflare">
-      </td>
-      <td valign="middle">
-        <strong><a href="https://github.com/cloudflare/web-bot-auth">cloudflare/web-bot-auth</a></strong><br>
-        HTTP message signatures for authenticating bots and agents
-      </td>
-      <td width="220" valign="middle">
-        <a href="https://github.com/cloudflare/web-bot-auth/pull/125">#125</a>
       </td>
     </tr>
   </tbody>
