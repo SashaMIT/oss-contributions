@@ -293,6 +293,18 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/ElementsProject/lightning/pull/9383">#9383</a>
       </td>
     </tr>
+    <tr>
+      <td width="96" align="center" valign="middle">
+        <img src="logos/cloudflare.png" width="72" height="72" alt="Cloudflare">
+      </td>
+      <td valign="middle">
+        <strong><a href="https://github.com/cloudflare/web-bot-auth">cloudflare/web-bot-auth</a></strong><br>
+        HTTP message signatures for authenticating bots and agents
+      </td>
+      <td width="220" valign="middle">
+        <a href="https://github.com/cloudflare/web-bot-auth/pull/125">#125</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
