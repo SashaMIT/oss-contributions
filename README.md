@@ -305,6 +305,18 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/ElementsProject/lightning/pull/9383">#9383</a>
       </td>
     </tr>
+    <tr>
+      <td width="96" align="center" valign="middle">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/celestiaorg.png" width="72" height="72" alt="Celestia">
+      </td>
+      <td valign="middle">
+        <strong><a href="https://github.com/celestiaorg/celestia-app">celestiaorg/celestia-app</a></strong><br>
+        Celestia consensus application
+      </td>
+      <td width="220" valign="middle">
+        <a href="https://github.com/celestiaorg/celestia-app/pull/7669">#7669</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
