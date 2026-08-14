@@ -331,6 +331,18 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/thirdweb-dev/js/pull/8875">#8875</a>
       </td>
     </tr>
+    <tr>
+      <td width="96" align="center" valign="middle">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/wevm.png" width="72" height="72" alt="wevm / viem">
+      </td>
+      <td valign="middle">
+        <strong><a href="https://github.com/wevm/viem">wevm/viem</a></strong><br>
+        TypeScript Ethereum interface
+      </td>
+      <td width="220" valign="middle">
+        <a href="https://github.com/wevm/viem/pull/4990">#4990</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
