@@ -7,59 +7,50 @@ Merged only. Detail lives on each PR.
 <table>
   <thead>
     <tr>
-      <th width="96"></th>
       <th>Project</th>
-      <th width="220">Merged PRs</th>
+      <th>Merged PRs</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td width="96" align="center" valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/langflow-ai.png" width="72" height="72" alt="Langflow">
-      </td>
       <td valign="middle">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/langflow-ai.png" width="40" height="40" alt="Langflow">
         <strong><a href="https://github.com/langflow-ai/langflow">langflow-ai/langflow</a></strong><br>
         Visual framework for building AI agents and MCP workflows
       </td>
-      <td width="220" valign="middle">
+      <td valign="middle">
         <a href="https://github.com/langflow-ai/langflow/pull/14474">#14474</a>
       </td>
     </tr>
     <tr>
-      <td width="96" align="center" valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/modelcontextprotocol.png" width="72" height="72" alt="MCP">
-      </td>
       <td valign="middle">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/modelcontextprotocol.png" width="40" height="40" alt="MCP">
         <strong><a href="https://github.com/modelcontextprotocol/registry">modelcontextprotocol/registry</a></strong><br>
         Official registry for MCP servers
       </td>
-      <td width="220" valign="middle">
+      <td valign="middle">
         <a href="https://github.com/modelcontextprotocol/registry/pull/1506">#1506</a>
       </td>
     </tr>
     <tr>
-      <td width="96" align="center" valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/x402-foundation.png" width="72" height="72" alt="x402">
-      </td>
       <td valign="middle">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/x402-foundation.png" width="40" height="40" alt="x402">
         <strong><a href="https://github.com/x402-foundation/x402">x402-foundation/x402</a></strong><br>
         Internet-native payment protocol for APIs/agents
       </td>
-      <td width="220" valign="middle">
+      <td valign="middle">
         <a href="https://github.com/x402-foundation/x402/pull/3034">#3034</a> ·
         <a href="https://github.com/x402-foundation/x402/pull/3033">#3033</a> ·
         <a href="https://github.com/x402-foundation/x402/pull/3032">#3032</a>
       </td>
     </tr>
     <tr>
-      <td width="96" align="center" valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/elizaOS.png" width="72" height="72" alt="elizaOS">
-      </td>
       <td valign="middle">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/elizaOS.png" width="40" height="40" alt="elizaOS">
         <strong><a href="https://github.com/elizaOS/eliza">elizaOS/eliza</a></strong><br>
         AI agent framework
       </td>
-      <td width="220" valign="middle">
+      <td valign="middle">
         <a href="https://github.com/elizaOS/eliza/pull/18009">#18009</a> ·
         <a href="https://github.com/elizaOS/eliza/pull/18003">#18003</a> ·
         <a href="https://github.com/elizaOS/eliza/pull/18006">#18006</a> ·
@@ -70,39 +61,33 @@ Merged only. Detail lives on each PR.
       </td>
     </tr>
     <tr>
-      <td width="96" align="center" valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/cloudflare.png" width="72" height="72" alt="Cloudflare">
-      </td>
       <td valign="middle">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/cloudflare.png" width="40" height="40" alt="Cloudflare">
         <strong><a href="https://github.com/cloudflare/web-bot-auth">cloudflare/web-bot-auth</a></strong><br>
         HTTP message signatures for authenticating bots and agents
       </td>
-      <td width="220" valign="middle">
+      <td valign="middle">
         <a href="https://github.com/cloudflare/web-bot-auth/pull/125">#125</a>
       </td>
     </tr>
     <tr>
-      <td width="96" align="center" valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/coinbase.png" width="72" height="72" alt="Coinbase">
-      </td>
       <td valign="middle">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/coinbase.png" width="40" height="40" alt="Coinbase">
         <strong><a href="https://github.com/coinbase/cb-mpc">coinbase/cb-mpc</a></strong><br>
         Coinbase MPC signing library
       </td>
-      <td width="220" valign="middle">
+      <td valign="middle">
         <a href="https://github.com/coinbase/cb-mpc/pull/131">#131</a>
         (credit for <a href="https://github.com/coinbase/cb-mpc/pull/129">#129</a>)
       </td>
     </tr>
     <tr>
-      <td width="96" align="center" valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/solana-program.png" width="72" height="72" alt="Solana">
-      </td>
       <td valign="middle">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/solana-program.png" width="40" height="40" alt="Solana">
         <strong><a href="https://github.com/solana-program">solana-program</a></strong><br>
         Official Solana on-chain program libraries
       </td>
-      <td width="220" valign="middle">
+      <td valign="middle">
         <a href="https://github.com/solana-program/token/pull/168">token#168</a> ·
         <a href="https://github.com/solana-program/token-2022/pull/1365">token-2022#1365</a><br>
         <a href="https://github.com/solana-program/token-metadata/pull/111">metadata#111</a> ·
@@ -118,74 +103,62 @@ Merged only. Detail lives on each PR.
       </td>
     </tr>
     <tr>
-      <td width="96" align="center" valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/anza-xyz.png" width="72" height="72" alt="Agave">
-      </td>
       <td valign="middle">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/anza-xyz.png" width="40" height="40" alt="Agave">
         <strong><a href="https://github.com/anza-xyz/agave">anza-xyz/agave</a></strong><br>
         Solana validator client (Agave)
       </td>
-      <td width="220" valign="middle">
+      <td valign="middle">
         <a href="https://github.com/anza-xyz/agave/pull/14336">#14336</a>
       </td>
     </tr>
     <tr>
-      <td width="96" align="center" valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/livekit.png" width="72" height="72" alt="LiveKit">
-      </td>
       <td valign="middle">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/livekit.png" width="40" height="40" alt="LiveKit">
         <strong><a href="https://github.com/livekit/protocol">livekit/protocol</a></strong><br>
         Real-time audio/video platform core protocol
       </td>
-      <td width="220" valign="middle">
+      <td valign="middle">
         <a href="https://github.com/livekit/protocol/pull/1706">#1706</a>
       </td>
     </tr>
     <tr>
-      <td width="96" align="center" valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/langgenius.png" width="72" height="72" alt="Dify">
-      </td>
       <td valign="middle">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/langgenius.png" width="40" height="40" alt="Dify">
         <strong><a href="https://github.com/langgenius/dify-plugin-daemon">langgenius/dify-plugin-daemon</a></strong><br>
         Plugin runtime for the Dify AI platform
       </td>
-      <td width="220" valign="middle">
+      <td valign="middle">
         <a href="https://github.com/langgenius/dify-plugin-daemon/pull/796">#796</a>
       </td>
     </tr>
     <tr>
-      <td width="96" align="center" valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/interledger.png" width="72" height="72" alt="Interledger">
-      </td>
       <td valign="middle">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/interledger.png" width="40" height="40" alt="Interledger">
         <strong><a href="https://github.com/interledger/rafiki">interledger/rafiki</a></strong><br>
         Open Payments / Interledger wallet and account-servicing entity toolkit
       </td>
-      <td width="220" valign="middle">
+      <td valign="middle">
         <a href="https://github.com/interledger/rafiki/pull/3962">#3962</a>
       </td>
     </tr>
     <tr>
-      <td width="96" align="center" valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/hiero-ledger.png" width="72" height="72" alt="Hiero">
-      </td>
       <td valign="middle">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/hiero-ledger.png" width="40" height="40" alt="Hiero">
         <strong><a href="https://github.com/hiero-ledger/hiero-consensus-node">hiero-ledger/hiero-consensus-node</a></strong><br>
         Hedera / Hiero consensus node
       </td>
-      <td width="220" valign="middle">
+      <td valign="middle">
         <a href="https://github.com/hiero-ledger/hiero-consensus-node/pull/26713">#26713</a>
       </td>
     </tr>
     <tr>
-      <td width="96" align="center" valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/moov-io.jpg" width="72" height="72" alt="Moov">
-      </td>
       <td valign="middle">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/moov-io.jpg" width="40" height="40" alt="Moov">
         <strong><a href="https://github.com/moov-io/base">moov-io</a></strong><br>
         Open-source payment infrastructure (ACH, wire, image cash letter, fed)
       </td>
-      <td width="220" valign="middle">
+      <td valign="middle">
         <a href="https://github.com/moov-io/base/pull/509">base#509</a> (CORS allowlist, base v0.63.0) ·
         <a href="https://github.com/moov-io/base/pull/512">base#512</a><br>
         <a href="https://github.com/moov-io/wire/pull/510">wire#510</a> ·
@@ -197,38 +170,32 @@ Merged only. Detail lives on each PR.
       </td>
     </tr>
     <tr>
-      <td width="96" align="center" valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/switck.png" width="72" height="72" alt="Coldcard">
-      </td>
       <td valign="middle">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/switck.png" width="40" height="40" alt="Coldcard">
         <strong><a href="https://github.com/switck/libngu">switck/libngu</a></strong><br>
         Crypto library used by Coldcard hardware wallets
       </td>
-      <td width="220" valign="middle">
+      <td valign="middle">
         <a href="https://github.com/switck/libngu/pull/65">#65</a> (post hack support)
       </td>
     </tr>
     <tr>
-      <td width="96" align="center" valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/hyperlane-xyz.png" width="72" height="72" alt="Hyperlane">
-      </td>
       <td valign="middle">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/hyperlane-xyz.png" width="40" height="40" alt="Hyperlane">
         <strong><a href="https://github.com/hyperlane-xyz/hyperlane-monorepo">hyperlane-xyz/hyperlane-monorepo</a></strong><br>
         Cross-chain messaging / interoperability
       </td>
-      <td width="220" valign="middle">
+      <td valign="middle">
         <a href="https://github.com/hyperlane-xyz/hyperlane-monorepo/pull/9196">#9196</a>
       </td>
     </tr>
     <tr>
-      <td width="96" align="center" valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/stacklok.png" width="72" height="72" alt="Stacklok">
-      </td>
       <td valign="middle">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/stacklok.png" width="40" height="40" alt="Stacklok">
         <strong><a href="https://github.com/stacklok/toolhive">stacklok/toolhive</a></strong><br>
         MCP server manager for AI agents
       </td>
-      <td width="220" valign="middle">
+      <td valign="middle">
         <a href="https://github.com/stacklok/toolhive/pull/6234">#6234</a> ·
         <a href="https://github.com/stacklok/toolhive/pull/6235">#6235</a> ·
         <a href="https://github.com/stacklok/toolhive/pull/6238">#6238</a> ·
@@ -236,148 +203,124 @@ Merged only. Detail lives on each PR.
       </td>
     </tr>
     <tr>
-      <td width="96" align="center" valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/summa-tx.png" width="72" height="72" alt="summa">
-      </td>
       <td valign="middle">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/summa-tx.png" width="40" height="40" alt="summa">
         <strong><a href="https://github.com/summa-tx/coins">summa-tx/coins</a></strong><br>
         Bitcoin / BIP32 key and path utilities (coins-bip32)
       </td>
-      <td width="220" valign="middle">
+      <td valign="middle">
         <a href="https://github.com/summa-tx/coins/pull/144">#144</a>
       </td>
     </tr>
     <tr>
-      <td width="96" align="center" valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/delinea.png" width="72" height="72" alt="Delinea">
-      </td>
       <td valign="middle">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/delinea.png" width="40" height="40" alt="Delinea">
         <strong><a href="https://github.com/DelineaXPM/delinea-mcp">DelineaXPM/delinea-mcp</a></strong><br>
         Delinea Secret Server / Platform MCP server
       </td>
-      <td width="220" valign="middle">
+      <td valign="middle">
         <a href="https://github.com/DelineaXPM/delinea-mcp/pull/56">#56</a>
-        (lands <a href="https://github.com/DelineaXPM/delinea-mcp/pull/52">#52</a>–<a href="https://github.com/DelineaXPM/delinea-mcp/pull/55">#55</a>)
+        (lands <a href="https://github.com/DelineaXPM/delinea-mcp/pull/52">#52</a>-<a href="https://github.com/DelineaXPM/delinea-mcp/pull/55">#55</a>)
       </td>
     </tr>
     <tr>
-      <td width="96" align="center" valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/envoyproxy.png" width="72" height="72" alt="Envoy">
-      </td>
       <td valign="middle">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/envoyproxy.png" width="40" height="40" alt="Envoy">
         <strong><a href="https://github.com/envoyproxy/envoy">envoyproxy/envoy</a></strong><br>
         Cloud-native edge and service proxy
       </td>
-      <td width="220" valign="middle">
+      <td valign="middle">
         <a href="https://github.com/envoyproxy/envoy/pull/46580">#46580</a>
       </td>
     </tr>
     <tr>
-      <td width="96" align="center" valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/openpubkey.png" width="72" height="72" alt="OpenPubkey">
-      </td>
       <td valign="middle">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/openpubkey.png" width="40" height="40" alt="OpenPubkey">
         <strong><a href="https://github.com/openpubkey/opkssh">openpubkey/opkssh</a></strong><br>
         SSH with OpenID Connect (OPK-SSH)
       </td>
-      <td width="220" valign="middle">
+      <td valign="middle">
         <a href="https://github.com/openpubkey/opkssh/pull/601">#601</a> ·
         <a href="https://github.com/openpubkey/opkssh/pull/603">#603</a>
       </td>
     </tr>
     <tr>
-      <td width="96" align="center" valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/onchain-id.png" width="72" height="72" alt="OnchainID">
-      </td>
       <td valign="middle">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/onchain-id.png" width="40" height="40" alt="OnchainID">
         <strong><a href="https://github.com/onchain-id/solidity">onchain-id/solidity</a></strong><br>
         Decentralized identity protocol (ONCHAINID)
       </td>
-      <td width="220" valign="middle">
+      <td valign="middle">
         <a href="https://github.com/onchain-id/solidity/pull/170">#170</a>
       </td>
     </tr>
     <tr>
-      <td width="96" align="center" valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/bytecodealliance.png" width="72" height="72" alt="Wasmtime">
-      </td>
       <td valign="middle">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/bytecodealliance.png" width="40" height="40" alt="Wasmtime">
         <strong><a href="https://github.com/bytecodealliance/wasmtime">bytecodealliance/wasmtime</a></strong><br>
         Fast and secure WebAssembly runtime
       </td>
-      <td width="220" valign="middle">
+      <td valign="middle">
         <a href="https://github.com/bytecodealliance/wasmtime/pull/14123">#14123</a>
       </td>
     </tr>
     <tr>
-      <td width="96" align="center" valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/elementsproject.png" width="72" height="72" alt="Core Lightning">
-      </td>
       <td valign="middle">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/elementsproject.png" width="40" height="40" alt="Core Lightning">
         <strong><a href="https://github.com/ElementsProject/lightning">ElementsProject/lightning</a></strong><br>
         Core Lightning (CLN)
       </td>
-      <td width="220" valign="middle">
+      <td valign="middle">
         <a href="https://github.com/ElementsProject/lightning/pull/9383">#9383</a>
       </td>
     </tr>
     <tr>
-      <td width="96" align="center" valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/celestiaorg.png" width="72" height="72" alt="Celestia">
-      </td>
       <td valign="middle">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/celestiaorg.png" width="40" height="40" alt="Celestia">
         <strong><a href="https://github.com/celestiaorg/celestia-app">celestiaorg/celestia-app</a></strong><br>
         Celestia consensus application
       </td>
-      <td width="220" valign="middle">
+      <td valign="middle">
         <a href="https://github.com/celestiaorg/celestia-app/pull/7669">#7669</a>
       </td>
     </tr>
     <tr>
-      <td width="96" align="center" valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/thirdweb.png" width="72" height="72" alt="thirdweb">
-      </td>
       <td valign="middle">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/thirdweb.png" width="40" height="40" alt="thirdweb">
         <strong><a href="https://github.com/thirdweb-dev/js">thirdweb-dev/js</a></strong><br>
         Web3 TypeScript SDK (auth, wallets, contracts)
       </td>
-      <td width="220" valign="middle">
+      <td valign="middle">
         <a href="https://github.com/thirdweb-dev/js/pull/8875">#8875</a>
       </td>
     </tr>
     <tr>
-      <td width="96" align="center" valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/wevm.png" width="72" height="72" alt="wevm / viem">
-      </td>
       <td valign="middle">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/wevm.png" width="40" height="40" alt="wevm / viem">
         <strong><a href="https://github.com/wevm/viem">wevm/viem</a></strong><br>
         TypeScript Ethereum interface
       </td>
-      <td width="220" valign="middle">
+      <td valign="middle">
         <a href="https://github.com/wevm/viem/pull/4990">#4990</a>
       </td>
     </tr>
     <tr>
-      <td width="96" align="center" valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/letsencrypt.png" width="72" height="72" alt="Let's Encrypt">
-      </td>
       <td valign="middle">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/letsencrypt.png" width="40" height="40" alt="Let's Encrypt">
         <strong><a href="https://github.com/letsencrypt/boulder">letsencrypt/boulder</a></strong><br>
         Let's Encrypt CA software (Boulder)
       </td>
-      <td width="220" valign="middle">
+      <td valign="middle">
         <a href="https://github.com/letsencrypt/boulder/pull/8935">#8935</a>
       </td>
     </tr>
     <tr>
-      <td width="96" align="center" valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/ethereumjs.png" width="72" height="72" alt="EthereumJS">
-      </td>
       <td valign="middle">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/ethereumjs.png" width="40" height="40" alt="EthereumJS">
         <strong><a href="https://github.com/ethereumjs/ethereumjs-monorepo">ethereumjs/ethereumjs-monorepo</a></strong><br>
         JavaScript Ethereum client and libraries
       </td>
-      <td width="220" valign="middle">
+      <td valign="middle">
         <a href="https://github.com/ethereumjs/ethereumjs-monorepo/pull/4359">#4359</a>
       </td>
     </tr>
