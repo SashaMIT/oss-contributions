@@ -83,6 +83,19 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td width="96" align="center" valign="middle">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/coinbase.png" width="72" height="72" alt="Coinbase">
+      </td>
+      <td valign="middle">
+        <strong><a href="https://github.com/coinbase/cb-mpc">coinbase/cb-mpc</a></strong><br>
+        Coinbase MPC signing library
+      </td>
+      <td width="220" valign="middle">
+        <a href="https://github.com/coinbase/cb-mpc/pull/131">#131</a>
+        (credit for <a href="https://github.com/coinbase/cb-mpc/pull/129">#129</a>)
+      </td>
+    </tr>
+    <tr>
+      <td width="96" align="center" valign="middle">
         <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/solana-program.png" width="72" height="72" alt="Solana">
       </td>
       <td valign="middle">
@@ -366,19 +379,6 @@ Merged only. Detail lives on each PR.
       </td>
       <td width="220" valign="middle">
         <a href="https://github.com/ethereumjs/ethereumjs-monorepo/pull/4359">#4359</a>
-      </td>
-    </tr>
-    <tr>
-      <td width="96" align="center" valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/coinbase.png" width="72" height="72" alt="Coinbase">
-      </td>
-      <td valign="middle">
-        <strong><a href="https://github.com/coinbase/cb-mpc">coinbase/cb-mpc</a></strong><br>
-        Coinbase MPC signing library
-      </td>
-      <td width="220" valign="middle">
-        <a href="https://github.com/coinbase/cb-mpc/pull/131">#131</a>
-        (credit for <a href="https://github.com/coinbase/cb-mpc/pull/129">#129</a>)
       </td>
     </tr>
   </tbody>
