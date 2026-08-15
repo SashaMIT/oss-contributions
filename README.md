@@ -268,7 +268,8 @@ Merged only. Detail lives on each PR.
         SSH with OpenID Connect (OPK-SSH)
       </td>
       <td width="220" valign="middle">
-        <a href="https://github.com/openpubkey/opkssh/pull/601">#601</a>
+        <a href="https://github.com/openpubkey/opkssh/pull/601">#601</a> ·
+        <a href="https://github.com/openpubkey/opkssh/pull/603">#603</a>
       </td>
     </tr>
     <tr>
@@ -341,6 +342,43 @@ Merged only. Detail lives on each PR.
       </td>
       <td width="220" valign="middle">
         <a href="https://github.com/wevm/viem/pull/4990">#4990</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="96" align="center" valign="middle">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/letsencrypt.png" width="72" height="72" alt="Let's Encrypt">
+      </td>
+      <td valign="middle">
+        <strong><a href="https://github.com/letsencrypt/boulder">letsencrypt/boulder</a></strong><br>
+        Let's Encrypt CA software (Boulder)
+      </td>
+      <td width="220" valign="middle">
+        <a href="https://github.com/letsencrypt/boulder/pull/8935">#8935</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="96" align="center" valign="middle">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/ethereumjs.png" width="72" height="72" alt="EthereumJS">
+      </td>
+      <td valign="middle">
+        <strong><a href="https://github.com/ethereumjs/ethereumjs-monorepo">ethereumjs/ethereumjs-monorepo</a></strong><br>
+        JavaScript Ethereum client and libraries
+      </td>
+      <td width="220" valign="middle">
+        <a href="https://github.com/ethereumjs/ethereumjs-monorepo/pull/4359">#4359</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="96" align="center" valign="middle">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/coinbase.png" width="72" height="72" alt="Coinbase">
+      </td>
+      <td valign="middle">
+        <strong><a href="https://github.com/coinbase/cb-mpc">coinbase/cb-mpc</a></strong><br>
+        Coinbase MPC signing library
+      </td>
+      <td width="220" valign="middle">
+        <a href="https://github.com/coinbase/cb-mpc/pull/131">#131</a>
+        (credit for <a href="https://github.com/coinbase/cb-mpc/pull/129">#129</a>)
       </td>
     </tr>
   </tbody>
