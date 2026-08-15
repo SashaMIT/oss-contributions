@@ -324,6 +324,17 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/ethereumjs/ethereumjs-monorepo/pull/4359">#4359</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/heymrun.png" width="40" height="40" alt="Heym">
+        <strong><a href="https://github.com/heymrun/heym">heymrun/heym</a></strong><br>
+        Self-hosted AI workflow automation
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/heymrun/heym/security/advisories/GHSA-87x2-9jwx-7gh4">GHSA-87x2</a> ·
+        <a href="https://github.com/heymrun/heym/security/advisories/GHSA-6rph-qqcv-jqh4">GHSA-6rph</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
