@@ -271,7 +271,8 @@ Merged only. Detail lives on each PR.
         Core Lightning (CLN)
       </td>
       <td valign="middle">
-        <a href="https://github.com/ElementsProject/lightning/pull/9383">#9383</a>
+        <a href="https://github.com/ElementsProject/lightning/pull/9383">#9383</a> ·
+        <a href="https://github.com/ElementsProject/lightning/pull/9388">#9388</a>
       </td>
     </tr>
     <tr>
@@ -344,6 +345,16 @@ Merged only. Detail lives on each PR.
       </td>
       <td valign="middle">
         <a href="https://github.com/AMAP-ML/LongHorizon-Harness/pull/11">#11</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/celestiaorg.png" width="40" height="40" alt="Celestia">
+        <strong><a href="https://github.com/celestiaorg/celestia-node">celestiaorg/celestia-node</a></strong><br>
+        Celestia data availability node
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/celestiaorg/celestia-node/pull/5157">#5157</a>
       </td>
     </tr>
   </tbody>
