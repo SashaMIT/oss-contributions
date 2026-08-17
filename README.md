@@ -14,7 +14,7 @@ Merged only. Detail lives on each PR.
   <tbody>
     <tr>
       <td valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/langflow-ai.png" width="40" height="40" alt="Langflow">
+        <img src="logos/langflow-ai.png" width="40" height="40" alt="Langflow">
         <strong><a href="https://github.com/langflow-ai/langflow">langflow-ai/langflow</a></strong><br>
         Visual framework for building AI agents and MCP workflows
       </td>
@@ -24,7 +24,7 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/modelcontextprotocol.png" width="40" height="40" alt="MCP">
+        <img src="logos/modelcontextprotocol.png" width="40" height="40" alt="MCP">
         <strong><a href="https://github.com/modelcontextprotocol/registry">modelcontextprotocol/registry</a></strong><br>
         Official registry for MCP servers
       </td>
@@ -34,7 +34,7 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/x402-foundation.png" width="40" height="40" alt="x402">
+        <img src="logos/x402-foundation.png" width="40" height="40" alt="x402">
         <strong><a href="https://github.com/x402-foundation/x402">x402-foundation/x402</a></strong><br>
         Internet-native payment protocol for APIs/agents
       </td>
@@ -46,7 +46,7 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/elizaOS.png" width="40" height="40" alt="elizaOS">
+        <img src="logos/elizaOS.png" width="40" height="40" alt="elizaOS">
         <strong><a href="https://github.com/elizaOS/eliza">elizaOS/eliza</a></strong><br>
         AI agent framework
       </td>
@@ -62,7 +62,7 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/cloudflare.png" width="40" height="40" alt="Cloudflare">
+        <img src="logos/cloudflare.png" width="40" height="40" alt="Cloudflare">
         <strong><a href="https://github.com/cloudflare/web-bot-auth">cloudflare/web-bot-auth</a></strong><br>
         HTTP message signatures for authenticating bots and agents
       </td>
@@ -72,7 +72,7 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/coinbase.png" width="40" height="40" alt="Coinbase">
+        <img src="logos/coinbase.png" width="40" height="40" alt="Coinbase">
         <strong><a href="https://github.com/coinbase/cb-mpc">coinbase/cb-mpc</a></strong><br>
         Coinbase MPC signing library
       </td>
@@ -83,7 +83,7 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/solana-program.png" width="40" height="40" alt="Solana">
+        <img src="logos/solana-program.png" width="40" height="40" alt="Solana">
         <strong><a href="https://github.com/solana-program">solana-program</a></strong><br>
         Official Solana on-chain program libraries
       </td>
@@ -104,7 +104,7 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/anza-xyz.png" width="40" height="40" alt="Agave">
+        <img src="logos/anza-xyz.png" width="40" height="40" alt="Agave">
         <strong><a href="https://github.com/anza-xyz/agave">anza-xyz/agave</a></strong><br>
         Solana validator client (Agave)
       </td>
@@ -114,7 +114,7 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/livekit.png" width="40" height="40" alt="LiveKit">
+        <img src="logos/livekit.png" width="40" height="40" alt="LiveKit">
         <strong><a href="https://github.com/livekit/protocol">livekit/protocol</a></strong><br>
         Real-time audio/video platform core protocol
       </td>
@@ -124,7 +124,7 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/langgenius.png" width="40" height="40" alt="Dify">
+        <img src="logos/langgenius.png" width="40" height="40" alt="Dify">
         <strong><a href="https://github.com/langgenius/dify-plugin-daemon">langgenius/dify-plugin-daemon</a></strong><br>
         Plugin runtime for the Dify AI platform
       </td>
@@ -134,7 +134,7 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/interledger.png" width="40" height="40" alt="Interledger">
+        <img src="logos/interledger.png" width="40" height="40" alt="Interledger">
         <strong><a href="https://github.com/interledger/rafiki">interledger/rafiki</a></strong><br>
         Open Payments / Interledger wallet and account-servicing entity toolkit
       </td>
@@ -144,7 +144,7 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/hiero-ledger.png" width="40" height="40" alt="Hiero">
+        <img src="logos/hiero-ledger.png" width="40" height="40" alt="Hiero">
         <strong><a href="https://github.com/hiero-ledger/hiero-consensus-node">hiero-ledger/hiero-consensus-node</a></strong><br>
         Hedera / Hiero consensus node
       </td>
@@ -154,7 +154,7 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/moov-io.jpg" width="40" height="40" alt="Moov">
+        <img src="logos/moov-io.jpg" width="40" height="40" alt="Moov">
         <strong><a href="https://github.com/moov-io/base">moov-io</a></strong><br>
         Open-source payment infrastructure (ACH, wire, image cash letter, fed)
       </td>
@@ -171,7 +171,7 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/switck.png" width="40" height="40" alt="Coldcard">
+        <img src="logos/switck.png" width="40" height="40" alt="Coldcard">
         <strong><a href="https://github.com/switck/libngu">switck/libngu</a></strong><br>
         Crypto library used by Coldcard hardware wallets
       </td>
@@ -181,7 +181,7 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/hyperlane-xyz.png" width="40" height="40" alt="Hyperlane">
+        <img src="logos/hyperlane-xyz.png" width="40" height="40" alt="Hyperlane">
         <strong><a href="https://github.com/hyperlane-xyz/hyperlane-monorepo">hyperlane-xyz/hyperlane-monorepo</a></strong><br>
         Cross-chain messaging / interoperability
       </td>
@@ -191,7 +191,7 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/stacklok.png" width="40" height="40" alt="Stacklok">
+        <img src="logos/stacklok.png" width="40" height="40" alt="Stacklok">
         <strong><a href="https://github.com/stacklok/toolhive">stacklok/toolhive</a></strong><br>
         MCP server manager for AI agents
       </td>
@@ -204,7 +204,7 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/summa-tx.png" width="40" height="40" alt="summa">
+        <img src="logos/summa-tx.png" width="40" height="40" alt="summa">
         <strong><a href="https://github.com/summa-tx/coins">summa-tx/coins</a></strong><br>
         Bitcoin / BIP32 key and path utilities (coins-bip32)
       </td>
@@ -214,7 +214,7 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/delinea.png" width="40" height="40" alt="Delinea">
+        <img src="logos/delinea.png" width="40" height="40" alt="Delinea">
         <strong><a href="https://github.com/DelineaXPM/delinea-mcp">DelineaXPM/delinea-mcp</a></strong><br>
         Delinea Secret Server / Platform MCP server
       </td>
@@ -225,7 +225,7 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/envoyproxy.png" width="40" height="40" alt="Envoy">
+        <img src="logos/envoyproxy.png" width="40" height="40" alt="Envoy">
         <strong><a href="https://github.com/envoyproxy/envoy">envoyproxy/envoy</a></strong><br>
         Cloud-native edge and service proxy
       </td>
@@ -235,7 +235,7 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/openpubkey.png" width="40" height="40" alt="OpenPubkey">
+        <img src="logos/openpubkey.png" width="40" height="40" alt="OpenPubkey">
         <strong><a href="https://github.com/openpubkey/opkssh">openpubkey/opkssh</a></strong><br>
         SSH with OpenID Connect (OPK-SSH)
       </td>
@@ -246,7 +246,7 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/onchain-id.png" width="40" height="40" alt="OnchainID">
+        <img src="logos/onchain-id.png" width="40" height="40" alt="OnchainID">
         <strong><a href="https://github.com/onchain-id/solidity">onchain-id/solidity</a></strong><br>
         Decentralized identity protocol (ONCHAINID)
       </td>
@@ -256,7 +256,7 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/bytecodealliance.png" width="40" height="40" alt="Wasmtime">
+        <img src="logos/bytecodealliance.png" width="40" height="40" alt="Wasmtime">
         <strong><a href="https://github.com/bytecodealliance/wasmtime">bytecodealliance/wasmtime</a></strong><br>
         Fast and secure WebAssembly runtime
       </td>
@@ -266,7 +266,7 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/elementsproject.png" width="40" height="40" alt="Core Lightning">
+        <img src="logos/elementsproject.png" width="40" height="40" alt="Core Lightning">
         <strong><a href="https://github.com/ElementsProject/lightning">ElementsProject/lightning</a></strong><br>
         Core Lightning (CLN)
       </td>
@@ -277,7 +277,7 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/celestiaorg.png" width="40" height="40" alt="Celestia">
+        <img src="logos/celestiaorg.png" width="40" height="40" alt="Celestia">
         <strong><a href="https://github.com/celestiaorg/celestia-app">celestiaorg/celestia-app</a></strong><br>
         Celestia consensus application
       </td>
@@ -287,7 +287,7 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/thirdweb.png" width="40" height="40" alt="thirdweb">
+        <img src="logos/thirdweb.png" width="40" height="40" alt="thirdweb">
         <strong><a href="https://github.com/thirdweb-dev/js">thirdweb-dev/js</a></strong><br>
         Web3 TypeScript SDK (auth, wallets, contracts)
       </td>
@@ -297,7 +297,7 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/wevm.png" width="40" height="40" alt="wevm / viem">
+        <img src="logos/wevm.png" width="40" height="40" alt="wevm / viem">
         <strong><a href="https://github.com/wevm/viem">wevm/viem</a></strong><br>
         TypeScript Ethereum interface
       </td>
@@ -307,7 +307,7 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/letsencrypt.png" width="40" height="40" alt="Let's Encrypt">
+        <img src="logos/letsencrypt.png" width="40" height="40" alt="Let's Encrypt">
         <strong><a href="https://github.com/letsencrypt/boulder">letsencrypt/boulder</a></strong><br>
         Let's Encrypt CA software (Boulder)
       </td>
@@ -317,7 +317,7 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/ethereumjs.png" width="40" height="40" alt="EthereumJS">
+        <img src="logos/ethereumjs.png" width="40" height="40" alt="EthereumJS">
         <strong><a href="https://github.com/ethereumjs/ethereumjs-monorepo">ethereumjs/ethereumjs-monorepo</a></strong><br>
         JavaScript Ethereum client and libraries
       </td>
@@ -327,7 +327,7 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/heymrun.png" width="40" height="40" alt="Heym">
+        <img src="logos/heymrun.png" width="40" height="40" alt="Heym">
         <strong><a href="https://github.com/heymrun/heym">heymrun/heym</a></strong><br>
         Self-hosted AI workflow automation
       </td>
@@ -339,7 +339,7 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/amap-ml.png" width="40" height="40" alt="AMAP-ML">
+        <img src="logos/amap-ml.png" width="40" height="40" alt="AMAP-ML">
         <strong><a href="https://github.com/AMAP-ML/LongHorizon-Harness">AMAP-ML/LongHorizon-Harness</a></strong><br>
         Long-horizon computer-use harness for AI agents
       </td>
@@ -349,7 +349,7 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td valign="middle">
-        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/celestiaorg.png" width="40" height="40" alt="Celestia">
+        <img src="logos/celestiaorg.png" width="40" height="40" alt="Celestia">
         <strong><a href="https://github.com/celestiaorg/celestia-node">celestiaorg/celestia-node</a></strong><br>
         Celestia data availability node
       </td>
