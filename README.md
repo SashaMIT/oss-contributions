@@ -336,6 +336,16 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/heymrun/heym/security/advisories/GHSA-6x65-w7q7-wg93">GHSA-6x65</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="https://raw.githubusercontent.com/SashaMIT/oss-contributions/main/logos/amap-ml.png" width="40" height="40" alt="AMAP-ML">
+        <strong><a href="https://github.com/AMAP-ML/LongHorizon-Harness">AMAP-ML/LongHorizon-Harness</a></strong><br>
+        Long-horizon computer-use harness for AI agents
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/AMAP-ML/LongHorizon-Harness/pull/11">#11</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
