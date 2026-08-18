@@ -371,6 +371,16 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/filecoin-project/lotus/pull/13745">#13745</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/foundry-rs.png" width="40" height="40" alt="Foundry">
+        <strong><a href="https://github.com/foundry-rs/foundry">foundry-rs/foundry</a></strong><br>
+        Ethereum development toolkit (Forge, Cast, Anvil)
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/foundry-rs/foundry/pull/16096">#16096</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
