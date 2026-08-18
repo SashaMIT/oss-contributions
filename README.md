@@ -361,6 +361,16 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/celestiaorg/celestia-node/pull/5157">#5157</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/filecoin-project.png" width="40" height="40" alt="Filecoin">
+        <strong><a href="https://github.com/filecoin-project/lotus">filecoin-project/lotus</a></strong><br>
+        Filecoin reference node (Lotus)
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/filecoin-project/lotus/pull/13745">#13745</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
