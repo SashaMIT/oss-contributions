@@ -67,7 +67,8 @@ Merged only. Detail lives on each PR.
         HTTP message signatures for authenticating bots and agents
       </td>
       <td valign="middle">
-        <a href="https://github.com/cloudflare/web-bot-auth/pull/125">#125</a>
+        <a href="https://github.com/cloudflare/web-bot-auth/pull/125">#125</a> ·
+        <a href="https://github.com/cloudflare/web-bot-auth/pull/127">#127</a>
       </td>
     </tr>
     <tr>
@@ -166,7 +167,9 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/moov-io/fed/pull/444">fed#444</a> ·
         <a href="https://github.com/moov-io/ach/pull/1831">ach#1831</a> ·
         <a href="https://github.com/moov-io/ach/pull/1834">ach#1834</a><br>
-        <a href="https://github.com/moov-io/iso8583/pull/427">iso8583#427</a>
+        <a href="https://github.com/moov-io/iso8583/pull/427">iso8583#427</a> ·
+        <a href="https://github.com/moov-io/base/pull/514">base#514</a> ·
+        <a href="https://github.com/moov-io/imagecashletter/pull/488">imagecashletter#488</a>
       </td>
     </tr>
     <tr>
@@ -199,7 +202,8 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/stacklok/toolhive/pull/6234">#6234</a> ·
         <a href="https://github.com/stacklok/toolhive/pull/6235">#6235</a> ·
         <a href="https://github.com/stacklok/toolhive/pull/6238">#6238</a> ·
-        <a href="https://github.com/stacklok/toolhive/pull/6239">#6239</a>
+        <a href="https://github.com/stacklok/toolhive/pull/6239">#6239</a> ·
+        <a href="https://github.com/stacklok/toolhive/pull/6236">#6236</a>
       </td>
     </tr>
     <tr>
