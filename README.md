@@ -396,6 +396,16 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/argotorg/sourcify/pull/2933">#2933</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/algorand.png" width="40" height="40" alt="Algorand">
+        <strong><a href="https://github.com/algorand/go-algorand">algorand/go-algorand</a></strong><br>
+        Official Algorand consensus node
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/algorand/go-algorand/pull/6694">#6694</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
