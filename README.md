@@ -130,7 +130,8 @@ Merged only. Detail lives on each PR.
         Real-time audio/video platform core protocol
       </td>
       <td valign="middle">
-        <a href="https://github.com/livekit/protocol/pull/1706">#1706</a>
+        <a href="https://github.com/livekit/protocol/pull/1706">protocol#1706</a> ·
+        <a href="https://github.com/livekit/python-sdks/pull/779">python-sdks#779</a>
       </td>
     </tr>
     <tr>
@@ -382,6 +383,16 @@ Merged only. Detail lives on each PR.
       </td>
       <td valign="middle">
         <a href="https://github.com/filecoin-project/lotus/pull/13745">#13745</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/sourcify.png" width="40" height="40" alt="Sourcify">
+        <strong><a href="https://github.com/argotorg/sourcify">argotorg/sourcify</a></strong><br>
+        Source-code verification service for Ethereum contracts
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/argotorg/sourcify/pull/2933">#2933</a>
       </td>
     </tr>
   </tbody>
