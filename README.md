@@ -407,6 +407,16 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/algorand/go-algorand/pull/6694">#6694</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/reown-com.png" width="40" height="40" alt="Reown">
+        <strong><a href="https://github.com/reown-com/reown-dotnet">reown-com/reown-dotnet</a></strong><br>
+        Reown (WalletConnect) SDK for .NET and Unity
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/reown-com/reown-dotnet/pull/322">#322</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
