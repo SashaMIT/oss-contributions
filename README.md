@@ -133,7 +133,8 @@ Merged only. Detail lives on each PR.
       <td valign="middle">
         <a href="https://github.com/livekit/protocol/pull/1706">protocol#1706</a> ·
         <a href="https://github.com/livekit/python-sdks/pull/779">python-sdks#779</a> ·
-        <a href="https://github.com/livekit/client-sdk-js/pull/2057">client-sdk-js#2057</a>
+        <a href="https://github.com/livekit/client-sdk-js/pull/2057">client-sdk-js#2057</a> ·
+        <a href="https://github.com/livekit/server-sdk-kotlin/pull/170">server-sdk-kotlin#170</a>
       </td>
     </tr>
     <tr>
