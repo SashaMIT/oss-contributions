@@ -78,7 +78,8 @@ Merged only. Detail lives on each PR.
         Ethereum development toolkit (Forge, Cast, Anvil)
       </td>
       <td valign="middle">
-        <a href="https://github.com/foundry-rs/foundry/pull/16096">#16096</a>
+        <a href="https://github.com/foundry-rs/foundry/pull/16096">#16096</a> ·
+        <a href="https://github.com/foundry-rs/foundry/pull/16237">#16237</a>
       </td>
     </tr>
     <tr>
