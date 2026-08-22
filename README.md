@@ -419,6 +419,16 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/reown-com/reown-dotnet/pull/322">#322</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/apeworx.png" width="40" height="40" alt="Ape">
+        <strong><a href="https://github.com/ApeWorX/ape">ApeWorX/ape</a></strong><br>
+        Python framework for interacting with blockchain networks
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/ApeWorX/ape/pull/2804">#2804</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
