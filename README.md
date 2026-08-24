@@ -254,7 +254,8 @@ Merged only. Detail lives on each PR.
         Cloud-native edge and service proxy
       </td>
       <td valign="middle">
-        <a href="https://github.com/envoyproxy/envoy/pull/46580">#46580</a>
+        <a href="https://github.com/envoyproxy/envoy/pull/46580">#46580</a> ·
+        <a href="https://github.com/envoyproxy/envoy/pull/46586">#46586</a>
       </td>
     </tr>
     <tr>
