@@ -144,7 +144,9 @@ Merged only. Detail lives on each PR.
         Plugin runtime for the Dify AI platform
       </td>
       <td valign="middle">
-        <a href="https://github.com/langgenius/dify-plugin-daemon/pull/796">#796</a>
+        <a href="https://github.com/langgenius/dify-plugin-daemon/pull/796">#796</a> ·
+        <a href="https://github.com/langgenius/dify-plugin-daemon/pull/799">#799</a> ·
+        <a href="https://github.com/langgenius/dify-plugin-daemon/pull/800">#800</a>
       </td>
     </tr>
     <tr>
