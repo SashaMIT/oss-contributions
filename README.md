@@ -389,7 +389,8 @@ Merged only. Detail lives on each PR.
         Filecoin reference node (Lotus)
       </td>
       <td valign="middle">
-        <a href="https://github.com/filecoin-project/lotus/pull/13745">#13745</a>
+        <a href="https://github.com/filecoin-project/lotus/pull/13745">#13745</a> ·
+        <a href="https://github.com/filecoin-project/lotus/pull/13746">#13746</a>
       </td>
     </tr>
     <tr>
