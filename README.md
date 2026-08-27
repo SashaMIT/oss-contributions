@@ -134,7 +134,8 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/livekit/protocol/pull/1706">protocol#1706</a> ·
         <a href="https://github.com/livekit/python-sdks/pull/779">python-sdks#779</a> ·
         <a href="https://github.com/livekit/client-sdk-js/pull/2057">client-sdk-js#2057</a> ·
-        <a href="https://github.com/livekit/server-sdk-kotlin/pull/170">server-sdk-kotlin#170</a>
+        <a href="https://github.com/livekit/server-sdk-kotlin/pull/170">server-sdk-kotlin#170</a> ·
+        <a href="https://github.com/livekit/client-sdk-android/pull/1008">client-sdk-android#1008</a>
       </td>
     </tr>
     <tr>
@@ -431,6 +432,17 @@ Merged only. Detail lives on each PR.
       </td>
       <td valign="middle">
         <a href="https://github.com/ApeWorX/ape/pull/2804">#2804</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/sii-research.png" width="40" height="40" alt="SII Research">
+        <strong><a href="https://github.com/sii-research/tau-0-vla">sii-research/tau-0-vla</a></strong><br>
+        Hierarchical robot foundation model (τ0-VLA)
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/sii-research/tau-0-vla/pull/5">#5</a> ·
+        <a href="https://github.com/sii-research/tau-0-vla/pull/6">#6</a>
       </td>
     </tr>
   </tbody>
