@@ -135,7 +135,8 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/livekit/python-sdks/pull/779">python-sdks#779</a> ·
         <a href="https://github.com/livekit/client-sdk-js/pull/2057">client-sdk-js#2057</a> ·
         <a href="https://github.com/livekit/server-sdk-kotlin/pull/170">server-sdk-kotlin#170</a> ·
-        <a href="https://github.com/livekit/client-sdk-android/pull/1008">client-sdk-android#1008</a>
+        <a href="https://github.com/livekit/client-sdk-android/pull/1008">client-sdk-android#1008</a> ·
+        <a href="https://github.com/livekit/server-sdk-ruby/pull/97">server-sdk-ruby#97</a>
       </td>
     </tr>
     <tr>
@@ -431,7 +432,8 @@ Merged only. Detail lives on each PR.
         Python framework for interacting with blockchain networks
       </td>
       <td valign="middle">
-        <a href="https://github.com/ApeWorX/ape/pull/2804">#2804</a>
+        <a href="https://github.com/ApeWorX/ape/pull/2804">#2804</a> ·
+        <a href="https://github.com/ApeWorX/ape/pull/2807">#2807</a>
       </td>
     </tr>
     <tr>
