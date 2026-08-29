@@ -447,6 +447,16 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/sii-research/tau-0-vla/pull/6">#6</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/status-im.png" width="40" height="40" alt="Status">
+        <strong><a href="https://github.com/status-im/nimbus-eth2">status-im/nimbus-eth2</a></strong><br>
+        Ethereum consensus client (Nimbus)
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/status-im/nimbus-eth2/pull/8937">#8937</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
