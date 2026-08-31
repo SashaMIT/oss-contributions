@@ -457,6 +457,16 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/status-im/nimbus-eth2/pull/8937">#8937</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/a2aproject.png" width="40" height="40" alt="A2A">
+        <strong><a href="https://github.com/a2aproject/a2a-python">a2aproject/a2a-python</a></strong><br>
+        Official Python SDK for the Linux Foundation Agent2Agent protocol
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/a2aproject/a2a-python/pull/1173">#1173</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
