@@ -467,6 +467,26 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/status-im/nimbus-eth2/pull/8937">#8937</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/software-mansion.png" width="40" height="40" alt="Software Mansion">
+        <strong><a href="https://github.com/software-mansion/scarb">software-mansion/scarb</a></strong><br>
+        Package manager and build toolchain for the Cairo language
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/software-mansion/scarb/pull/3211">#3211</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/threshold-network.png" width="40" height="40" alt="Threshold">
+        <strong><a href="https://github.com/threshold-network/tbtc-v2">threshold-network/tbtc-v2</a></strong><br>
+        tBTC Bitcoin to Ethereum bridge
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/threshold-network/tbtc-v2/pull/1086">#1086</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
