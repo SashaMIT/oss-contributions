@@ -100,7 +100,8 @@ Merged only. Detail lives on each PR.
         Official Python SDK for the Linux Foundation Agent2Agent protocol (originated at Google)
       </td>
       <td valign="middle">
-        <a href="https://github.com/a2aproject/a2a-python/pull/1173">#1173</a>
+        <a href="https://github.com/a2aproject/a2a-python/pull/1173">#1173</a> ·
+        <a href="https://github.com/a2aproject/a2a-python/pull/1164">#1164</a>
       </td>
     </tr>
     <tr>
