@@ -488,6 +488,16 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/threshold-network/tbtc-v2/pull/1086">#1086</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/caddyserver.png" width="40" height="40" alt="Caddy">
+        <strong><a href="https://github.com/caddyserver/caddy">caddyserver/caddy</a></strong><br>
+        Fast, extensible HTTP/2 and HTTP/3 web server with automatic HTTPS
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/caddyserver/caddy/pull/7988">#7988</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
