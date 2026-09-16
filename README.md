@@ -203,7 +203,9 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/moov-io/achgateway/pull/386">achgateway#386</a><br>
         <a href="https://github.com/moov-io/ach-web-viewer/pull/334">ach-web-viewer#334</a> ·
         <a href="https://github.com/moov-io/ach-test-harness/pull/358">ach-test-harness#358</a> ·
-        <a href="https://github.com/moov-io/watchman/pull/861">watchman#861</a>
+        <a href="https://github.com/moov-io/watchman/pull/861">watchman#861</a> ·
+        <a href="https://github.com/moov-io/fincen/pull/130">fincen#130</a> ·
+        <a href="https://github.com/moov-io/cadeft/pull/103">cadeft#103</a>
       </td>
     </tr>
     <tr>
