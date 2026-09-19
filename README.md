@@ -501,6 +501,16 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/caddyserver/caddy/pull/7988">#7988</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/decentralized-identity.png" width="40" height="40" alt="DIF">
+        <strong><a href="https://github.com/decentralized-identity/did-jwt">decentralized-identity/did-jwt</a></strong><br>
+        DIF JWT library for DID authentication (exp, nbf, iat)
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/decentralized-identity/did-jwt/pull/344">#344</a> (NumericDate fail-closed, original <a href="https://github.com/decentralized-identity/did-jwt/pull/337">#337</a>)
+      </td>
+    </tr>
   </tbody>
 </table>
 
