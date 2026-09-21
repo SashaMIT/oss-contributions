@@ -157,7 +157,8 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/livekit/client-sdk-js/pull/2057">client-sdk-js#2057</a> ·
         <a href="https://github.com/livekit/server-sdk-kotlin/pull/170">server-sdk-kotlin#170</a> ·
         <a href="https://github.com/livekit/client-sdk-android/pull/1008">client-sdk-android#1008</a> ·
-        <a href="https://github.com/livekit/server-sdk-ruby/pull/97">server-sdk-ruby#97</a>
+        <a href="https://github.com/livekit/server-sdk-ruby/pull/97">server-sdk-ruby#97</a> ·
+        <a href="https://github.com/livekit/node-sdks/pull/710">node-sdks#710</a>
       </td>
     </tr>
     <tr>
