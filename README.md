@@ -512,6 +512,16 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/caddyserver/caddy/pull/7988">#7988</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/morpheusais.png" width="40" height="40" alt="Morpheus">
+        <strong><a href="https://github.com/MorpheusAIs/Morpheus-Lumerin-Node">MorpheusAIs/Morpheus-Lumerin-Node</a></strong><br>
+        Morpheus node for decentralized LLM inference
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/MorpheusAIs/Morpheus-Lumerin-Node/pull/883">#883</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
