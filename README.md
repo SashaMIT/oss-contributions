@@ -217,7 +217,16 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/moov-io/ach-test-harness/pull/358">ach-test-harness#358</a> ·
         <a href="https://github.com/moov-io/watchman/pull/861">watchman#861</a> ·
         <a href="https://github.com/moov-io/fincen/pull/130">fincen#130</a> ·
-        <a href="https://github.com/moov-io/cadeft/pull/103">cadeft#103</a>
+        <a href="https://github.com/moov-io/cadeft/pull/103">cadeft#103</a><br>
+        <a href="https://github.com/moov-io/check-imaging/pull/29">check-imaging#29</a> ·
+        <a href="https://github.com/moov-io/cryptfs/pull/125">cryptfs#125</a> ·
+        <a href="https://github.com/moov-io/pamspr/pull/23">pamspr#23</a> ·
+        <a href="https://github.com/moov-io/x12/pull/45">x12#45</a><br>
+        <a href="https://github.com/moov-io/fednow20022/pull/58">fednow20022#58</a> ·
+        <a href="https://github.com/moov-io/fedach/pull/24">fedach#24</a> ·
+        <a href="https://github.com/moov-io/1120x/pull/74">1120x#74</a> ·
+        <a href="https://github.com/moov-io/pinblock/pull/35">pinblock#35</a> ·
+        <a href="https://github.com/moov-io/dukpt/pull/84">dukpt#84</a>
       </td>
     </tr>
     <tr>
@@ -459,7 +468,8 @@ Merged only. Detail lives on each PR.
       </td>
       <td valign="middle">
         <a href="https://github.com/ApeWorX/ape/pull/2804">#2804</a> ·
-        <a href="https://github.com/ApeWorX/ape/pull/2807">#2807</a>
+        <a href="https://github.com/ApeWorX/ape/pull/2807">#2807</a> ·
+        <a href="https://github.com/ApeWorX/ethpm-types/pull/163">ethpm-types#163</a>
       </td>
     </tr>
     <tr>
@@ -521,6 +531,16 @@ Merged only. Detail lives on each PR.
       </td>
       <td valign="middle">
         <a href="https://github.com/MorpheusAIs/Morpheus-Lumerin-Node/pull/883">#883</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/openfort.png" width="40" height="40" alt="Openfort">
+        <strong><a href="https://github.com/openfort-xyz/shield">openfort-xyz/shield</a></strong><br>
+        Embedded wallet key shield
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/openfort-xyz/shield/pull/118">#118</a>
       </td>
     </tr>
   </tbody>
