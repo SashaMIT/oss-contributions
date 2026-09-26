@@ -574,6 +574,16 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/mdiago/VeriFactu/pull/296">#296</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/girocode.jpg" width="40" height="40" alt="girocode">
+        <strong><a href="https://github.com/mtgrosser/girocode">mtgrosser/girocode</a></strong><br>
+        EPC QR codes for SEPA credit transfers
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/mtgrosser/girocode/pull/6">#6</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
