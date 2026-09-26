@@ -604,6 +604,16 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/Respect/Validation/pull/1865">#1865</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/swiss-qr-bill.jpg" width="40" height="40" alt="Swiss QR Bill">
+        <strong><a href="https://github.com/claudep/swiss-qr-bill">claudep/swiss-qr-bill</a></strong><br>
+        Python library for Swiss QR-bill payment slips
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/claudep/swiss-qr-bill/pull/109">#109</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
