@@ -654,6 +654,16 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/PhpUnitsOfMeasure/php-units-of-measure/pull/101">#101</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/edifact.jpg" width="40" height="40" alt="edifact-generator">
+        <strong><a href="https://github.com/php-edifact/edifact-generator">php-edifact/edifact-generator</a></strong><br>
+        PHP formatter for EDI messages
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/php-edifact/edifact-generator/pull/46">#46</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
