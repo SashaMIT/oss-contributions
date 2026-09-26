@@ -584,6 +584,16 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/mtgrosser/girocode/pull/6">#6</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/javascript-barcode-reader.jpg" width="40" height="40" alt="Javascript Barcode Reader">
+        <strong><a href="https://github.com/mubaidr/Javascript-Barcode-Reader">mubaidr/Javascript-Barcode-Reader</a></strong><br>
+        JavaScript barcode decoder
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/mubaidr/Javascript-Barcode-Reader/pull/1241">#1241</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
