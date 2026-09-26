@@ -644,6 +644,16 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/arturmkrtchyan/iban4j/pull/186">#186</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/php-units.jpg" width="40" height="40" alt="php-units-of-measure">
+        <strong><a href="https://github.com/PhpUnitsOfMeasure/php-units-of-measure">PhpUnitsOfMeasure/php-units-of-measure</a></strong><br>
+        PHP library for physical quantities and units of measure
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/PhpUnitsOfMeasure/php-units-of-measure/pull/101">#101</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
