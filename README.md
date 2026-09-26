@@ -594,6 +594,16 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/mubaidr/Javascript-Barcode-Reader/pull/1241">#1241</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/respect-validation.jpg" width="40" height="40" alt="Respect Validation">
+        <strong><a href="https://github.com/Respect/Validation">Respect/Validation</a></strong><br>
+        PHP validation library
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/Respect/Validation/pull/1865">#1865</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
