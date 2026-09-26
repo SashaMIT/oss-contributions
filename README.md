@@ -614,6 +614,26 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/claudep/swiss-qr-bill/pull/109">#109</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/validate-polish.jpg" width="40" height="40" alt="validate-polish">
+        <strong><a href="https://github.com/radarsu/validate-polish">radarsu/validate-polish</a></strong><br>
+        Polish PESEL, NIP, REGON, and identity card checks
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/radarsu/validate-polish/pull/23">#23</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/zugferd.jpg" width="40" height="40" alt="ZUGFeRD">
+        <strong><a href="https://github.com/stephanstapel/ZUGFeRD-csharp">stephanstapel/ZUGFeRD-csharp</a></strong><br>
+        C# library for ZUGFeRD and Factur-X invoices
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/stephanstapel/ZUGFeRD-csharp/pull/982">#982</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
