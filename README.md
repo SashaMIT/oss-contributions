@@ -543,6 +543,37 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/openfort-xyz/shield/pull/118">#118</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/leekchan.jpg" width="40" height="40" alt="accounting">
+        <strong><a href="https://github.com/leekchan/accounting">leekchan/accounting</a></strong><br>
+        Go money and currency formatting
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/leekchan/accounting/commit/331ed8d8538f94dd2d49770e1177d847ba25acfe">331ed8d</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/nethereum.png" width="40" height="40" alt="Nethereum">
+        <strong><a href="https://github.com/Nethereum/Nethereum">Nethereum/Nethereum</a></strong><br>
+        Ethereum .NET integration library
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/Nethereum/Nethereum/pull/1122">#1122</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/verifactu.jpg" width="40" height="40" alt="VeriFactu">
+        <strong><a href="https://github.com/mdiago/VeriFactu">mdiago/VeriFactu</a></strong><br>
+        Spanish VeriFactu electronic invoice library
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/mdiago/VeriFactu/pull/295">#295</a> ·
+        <a href="https://github.com/mdiago/VeriFactu/pull/296">#296</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
