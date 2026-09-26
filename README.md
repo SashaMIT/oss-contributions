@@ -634,6 +634,16 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/stephanstapel/ZUGFeRD-csharp/pull/982">#982</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/iban4j.jpg" width="40" height="40" alt="iban4j">
+        <strong><a href="https://github.com/arturmkrtchyan/iban4j">arturmkrtchyan/iban4j</a></strong><br>
+        Java library for IBAN and BIC validation
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/arturmkrtchyan/iban4j/pull/186">#186</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
