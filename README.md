@@ -664,6 +664,36 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/php-edifact/edifact-generator/pull/46">#46</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/persian-tools.jpg" width="40" height="40" alt="persian-tools">
+        <strong><a href="https://github.com/persian-tools/persian-tools">persian-tools/persian-tools</a></strong><br>
+        TypeScript toolkit for Persian text, numbers, and validation
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/persian-tools/persian-tools/pull/446">#446</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/weberp.jpg" width="40" height="40" alt="webERP">
+        <strong><a href="https://github.com/timschofield/webERP">timschofield/webERP</a></strong><br>
+        Accounting and business administration ERP
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/timschofield/webERP/pull/1019">#1019</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/autonumeric.jpg" width="40" height="40" alt="autoNumeric">
+        <strong><a href="https://github.com/autoNumeric/autoNumeric">autoNumeric/autoNumeric</a></strong><br>
+        Live as-you-type formatting for numbers and currencies
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/autoNumeric/autoNumeric/pull/836">#836</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
