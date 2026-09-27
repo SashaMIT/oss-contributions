@@ -704,6 +704,16 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/manuelbl/SwissQRBill/pull/103">#103</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/opening-hours.jpg" width="40" height="40" alt="opening-hours">
+        <strong><a href="https://github.com/spatie/opening-hours">spatie/opening-hours</a></strong><br>
+        PHP library for querying opening hours
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/spatie/opening-hours/pull/283">#283</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
