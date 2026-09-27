@@ -714,6 +714,16 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/spatie/opening-hours/pull/283">#283</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/vat-calculator.png" width="40" height="40" alt="VAT Calculator">
+        <strong><a href="https://github.com/laravel/vat-calculator">laravel/vat-calculator</a></strong><br>
+        Laravel package for VAT by country and postal code
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/laravel/vat-calculator/pull/213">#213</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
