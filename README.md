@@ -694,6 +694,16 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/autoNumeric/autoNumeric/pull/836">#836</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/manuelbl-swissqrbill.jpg" width="40" height="40" alt="SwissQRBill">
+        <strong><a href="https://github.com/manuelbl/SwissQRBill">manuelbl/SwissQRBill</a></strong><br>
+        Java library for Swiss QR bill payment slips
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/manuelbl/SwissQRBill/pull/103">#103</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
