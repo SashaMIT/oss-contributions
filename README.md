@@ -754,6 +754,16 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/sammcj/gollama/pull/240">#240</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/phonemizer.jpg" width="40" height="40" alt="phonemizer">
+        <strong><a href="https://github.com/bootphon/phonemizer">bootphon/phonemizer</a></strong><br>
+        Phonetize text, one language at a time
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/bootphon/phonemizer/pull/222">#222</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
