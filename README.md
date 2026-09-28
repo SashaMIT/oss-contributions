@@ -724,6 +724,36 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/laravel/vat-calculator/pull/213">#213</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/node-llama-cpp.jpg" width="40" height="40" alt="node-llama-cpp">
+        <strong><a href="https://github.com/withcatai/node-llama-cpp">withcatai/node-llama-cpp</a></strong><br>
+        Node.js bindings for llama.cpp
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/withcatai/node-llama-cpp/pull/662">#662</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/llama-rn.png" width="40" height="40" alt="llama.rn">
+        <strong><a href="https://github.com/mybigday/llama.rn">mybigday/llama.rn</a></strong><br>
+        React Native bindings for llama.cpp
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/mybigday/llama.rn/pull/406">#406</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/gollama.png" width="40" height="40" alt="gollama">
+        <strong><a href="https://github.com/sammcj/gollama">sammcj/gollama</a></strong><br>
+        Terminal manager for Ollama models
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/sammcj/gollama/pull/240">#240</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
