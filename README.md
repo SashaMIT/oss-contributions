@@ -764,6 +764,16 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/bootphon/phonemizer/pull/222">#222</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/whisper-timestamped.jpg" width="40" height="40" alt="whisper-timestamped">
+        <strong><a href="https://github.com/linto-ai/whisper-timestamped">linto-ai/whisper-timestamped</a></strong><br>
+        Word-level timestamps and confidence for Whisper
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/linto-ai/whisper-timestamped/pull/256">#256</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
