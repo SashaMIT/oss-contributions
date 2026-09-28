@@ -824,6 +824,26 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/LostRuins/koboldcpp/pull/2502">#2502</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/br.png" width="40" height="40" alt="br">
+        <strong><a href="https://github.com/phenpessoa/br">phenpessoa/br</a></strong><br>
+        Go library for Brazilian document numbers
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/phenpessoa/br/pull/19">#19</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/applio.png" width="40" height="40" alt="Applio">
+        <strong><a href="https://github.com/IAHispano/Applio">IAHispano/Applio</a></strong><br>
+        Voice conversion focused on ease of use
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/IAHispano/Applio/pull/1298">#1298</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
