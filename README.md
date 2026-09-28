@@ -774,6 +774,16 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/linto-ai/whisper-timestamped/pull/256">#256</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/gobl.png" width="40" height="40" alt="GOBL">
+        <strong><a href="https://github.com/invopop/gobl">invopop/gobl</a></strong><br>
+        Go Business Language for invoices and tax
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/invopop/gobl/pull/986">#986</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
