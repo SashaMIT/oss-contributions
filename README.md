@@ -784,6 +784,46 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/invopop/gobl/pull/986">#986</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/go-pix.png" width="40" height="40" alt="go-pix">
+        <strong><a href="https://github.com/fonini/go-pix">fonini/go-pix</a></strong><br>
+        Go library for Pix copy and paste codes
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/fonini/go-pix/pull/13">#13</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/pix-qrcode-utils.png" width="40" height="40" alt="pix-qrcode-utils">
+        <strong><a href="https://github.com/NascentSecureTech/pix-qrcode-utils">NascentSecureTech/pix-qrcode-utils</a></strong><br>
+        Parser and generator for EMV merchant QR codes
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/NascentSecureTech/pix-qrcode-utils/pull/8">#8</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/eth-pydantic-types.png" width="40" height="40" alt="eth-pydantic-types">
+        <strong><a href="https://github.com/ApeWorX/eth-pydantic-types">ApeWorX/eth-pydantic-types</a></strong><br>
+        ETH Pydantic types
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/ApeWorX/eth-pydantic-types/pull/37">#37</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/koboldcpp.png" width="40" height="40" alt="koboldcpp">
+        <strong><a href="https://github.com/LostRuins/koboldcpp">LostRuins/koboldcpp</a></strong><br>
+        Run GGUF models with a KoboldAI UI
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/LostRuins/koboldcpp/pull/2502">#2502</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
