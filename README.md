@@ -226,7 +226,11 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/moov-io/fedach/pull/24">fedach#24</a> ·
         <a href="https://github.com/moov-io/1120x/pull/74">1120x#74</a> ·
         <a href="https://github.com/moov-io/pinblock/pull/35">pinblock#35</a> ·
-        <a href="https://github.com/moov-io/dukpt/pull/84">dukpt#84</a>
+        <a href="https://github.com/moov-io/dukpt/pull/84">dukpt#84</a><br>
+        <a href="https://github.com/moov-io/fedwire20022/pull/70">fedwire20022#70</a> ·
+        <a href="https://github.com/moov-io/bai2/pull/174">bai2#174</a> ·
+        <a href="https://github.com/moov-io/ach/pull/1873">ach#1873</a> ·
+        <a href="https://github.com/moov-io/imagecashletter/pull/508">imagecashletter#508</a>
       </td>
     </tr>
     <tr>
@@ -842,6 +846,66 @@ Merged only. Detail lives on each PR.
       </td>
       <td valign="middle">
         <a href="https://github.com/IAHispano/Applio/pull/1298">#1298</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/sign-in-with-web3.png" width="40" height="40" alt="Sign-in with Web3">
+        <strong><a href="https://github.com/Web3Auth/sign-in-with-web3">Web3Auth/sign-in-with-web3</a></strong><br>
+        Sign-in with a Web3 account
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/Web3Auth/sign-in-with-web3/pull/79">#79</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/asteroid.png" width="40" height="40" alt="asteroid">
+        <strong><a href="https://github.com/asteroid-team/asteroid">asteroid-team/asteroid</a></strong><br>
+        PyTorch audio source separation
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/asteroid-team/asteroid/pull/720">#720</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/gguf-parser-go.png" width="40" height="40" alt="gguf-parser-go">
+        <strong><a href="https://github.com/gpustack/gguf-parser-go">gpustack/gguf-parser-go</a></strong><br>
+        Review GGUF files and estimate memory use
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/gpustack/gguf-parser-go/pull/61">#61</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/whisper-rn.png" width="40" height="40" alt="whisper.rn">
+        <strong><a href="https://github.com/mybigday/whisper.rn">mybigday/whisper.rn</a></strong><br>
+        React Native binding of whisper.cpp
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/mybigday/whisper.rn/pull/338">#338</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/php-swiss-qr-bill.png" width="40" height="40" alt="php-swiss-qr-bill">
+        <strong><a href="https://github.com/sprain/php-swiss-qr-bill">sprain/php-swiss-qr-bill</a></strong><br>
+        Create Swiss QR bills in PHP
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/sprain/php-swiss-qr-bill/pull/301">#301</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/hyllama.png" width="40" height="40" alt="hyllama">
+        <strong><a href="https://github.com/hyparam/hyllama">hyparam/hyllama</a></strong><br>
+        GGUF parser for JavaScript
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/hyparam/hyllama/pull/4">#4</a>
       </td>
     </tr>
   </tbody>
