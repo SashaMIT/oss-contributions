@@ -908,6 +908,86 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/hyparam/hyllama/pull/4">#4</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/brazilian-documents.png" width="40" height="40" alt="brazilian_documents">
+        <strong><a href="https://github.com/fidelisrafael/brazilian_documents">fidelisrafael/brazilian_documents</a></strong><br>
+        Brazilian document validators
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/fidelisrafael/brazilian_documents/pull/15">#15</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/money.png" width="40" height="40" alt="money">
+        <strong><a href="https://github.com/RubyMoney/money">RubyMoney/money</a></strong><br>
+        Ruby library for dealing with money
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/RubyMoney/money/pull/1231">#1231</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/web3py.png" width="40" height="40" alt="web3.py">
+        <strong><a href="https://github.com/ApeWorX/web3.py">ApeWorX/web3.py</a></strong><br>
+        Python interface for Ethereum
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/ApeWorX/web3.py/pull/3882">#3882</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/trimesh.png" width="40" height="40" alt="trimesh">
+        <strong><a href="https://github.com/mikedh/trimesh">mikedh/trimesh</a></strong><br>
+        Python library for triangular meshes
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/mikedh/trimesh/pull/2609">#2609</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/yii2-boleto-remessa.png" width="40" height="40" alt="yii2-boleto-remessa">
+        <strong><a href="https://github.com/newerton/yii2-boleto-remessa">newerton/yii2-boleto-remessa</a></strong><br>
+        Boleto and CNAB remittance files
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/newerton/yii2-boleto-remessa/pull/51">#51</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/sparkdash.png" width="40" height="40" alt="sparkDash">
+        <strong><a href="https://github.com/MiaAI-Lab/sparkDash">MiaAI-Lab/sparkDash</a></strong><br>
+        Monitoring dashboard for DGX Spark
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/MiaAI-Lab/sparkDash/pull/117">#117</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/maid.png" width="40" height="40" alt="maid">
+        <strong><a href="https://github.com/Mobile-Artificial-Intelligence/maid">Mobile-Artificial-Intelligence/maid</a></strong><br>
+        Local and remote LLM chat
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/Mobile-Artificial-Intelligence/maid/pull/769">#769</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/dependabot.png" width="40" height="40" alt="Dependabot">
+        <strong><a href="https://github.com/dependabot/dependabot-core">dependabot/dependabot-core</a></strong><br>
+        Dependabot core for update PRs
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/dependabot/dependabot-core/pull/15866">#15866</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
