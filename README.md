@@ -967,6 +967,7 @@ Merged only. Detail lives on each PR.
       <td valign="middle">
         <a href="https://github.com/MiaAI-Lab/sparkDash/pull/117">#117</a>
         <a href="https://github.com/MiaAI-Lab/sparkDash/pull/128">#128</a>
+        <a href="https://github.com/MiaAI-Lab/sparkDash/pull/129">#129</a>
       </td>
     </tr>
     <tr>
@@ -987,6 +988,46 @@ Merged only. Detail lives on each PR.
       </td>
       <td valign="middle">
         <a href="https://github.com/dependabot/dependabot-core/pull/15866">#15866</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/kornia.png" width="40" height="40" alt="kornia">
+        <strong><a href="https://github.com/kornia/kornia">kornia/kornia</a></strong><br>
+        Differentiable computer vision for PyTorch
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/kornia/kornia/pull/5090">#5090</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/sensevoice.png" width="40" height="40" alt="SenseVoice">
+        <strong><a href="https://github.com/QwenAudio/SenseVoice">QwenAudio/SenseVoice</a></strong><br>
+        Speech recognition model
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/QwenAudio/SenseVoice/pull/358">#358</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/tslearn.png" width="40" height="40" alt="tslearn">
+        <strong><a href="https://github.com/tslearn-team/tslearn">tslearn-team/tslearn</a></strong><br>
+        Machine learning for time series
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/tslearn-team/tslearn/pull/737">#737</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/firecrawl.png" width="40" height="40" alt="firecrawl">
+        <strong><a href="https://github.com/firecrawl/firecrawl">firecrawl/firecrawl</a></strong><br>
+        Web scraper and search API
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/firecrawl/firecrawl/pull/4860">#4860</a>
       </td>
     </tr>
   </tbody>
