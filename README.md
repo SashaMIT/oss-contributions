@@ -1040,6 +1040,26 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/pyRiemann/pyRiemann/pull/496">#496</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/gitpython.png" width="40" height="40" alt="GitPython">
+        <strong><a href="https://github.com/gitpython-developers/GitPython">gitpython-developers/GitPython</a></strong><br>
+        Python library for Git
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/gitpython-developers/GitPython/pull/2261">#2261</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/fatturaelettronica.png" width="40" height="40" alt="FatturaElettronica">
+        <strong><a href="https://github.com/fatturaelettronicaphp/FatturaElettronica">fatturaelettronicaphp/FatturaElettronica</a></strong><br>
+        Italian electronic invoices
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/fatturaelettronicaphp/FatturaElettronica/pull/115">#115</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
