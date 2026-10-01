@@ -1030,6 +1030,16 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/firecrawl/firecrawl/pull/4860">#4860</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/pyriemann.png" width="40" height="40" alt="pyRiemann">
+        <strong><a href="https://github.com/pyRiemann/pyRiemann">pyRiemann/pyRiemann</a></strong><br>
+        Riemannian geometry for covariance matrices
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/pyRiemann/pyRiemann/pull/496">#496</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
