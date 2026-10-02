@@ -1100,6 +1100,26 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/facelessuser/soupsieve/pull/308">#308</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/iso8601.png" width="40" height="40" alt="iso8601">
+        <strong><a href="https://github.com/relvacode/iso8601">relvacode/iso8601</a></strong><br>
+        ISO 8601 parser for Go
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/relvacode/iso8601/pull/34">#34</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/pymysql.png" width="40" height="40" alt="PyMySQL">
+        <strong><a href="https://github.com/PyMySQL/PyMySQL">PyMySQL/PyMySQL</a></strong><br>
+        Pure Python MySQL and MariaDB client
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/PyMySQL/PyMySQL/pull/1280">#1280</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
