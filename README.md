@@ -24,6 +24,16 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td valign="middle">
+        <img src="logos/nvidia.png" width="40" height="40" alt="NVIDIA">
+        <strong><a href="https://github.com/NVIDIA/kvpress">NVIDIA/kvpress</a></strong><br>
+        KV cache compression for transformers
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/NVIDIA/kvpress/pull/299">#299</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
         <img src="logos/modelcontextprotocol.png" width="40" height="40" alt="MCP">
         <strong><a href="https://github.com/modelcontextprotocol/registry">modelcontextprotocol/registry</a></strong><br>
         Official registry for MCP servers
@@ -1078,16 +1088,6 @@ Merged only. Detail lives on each PR.
       </td>
       <td valign="middle">
         <a href="https://github.com/alpeb/go-finance/pull/8">#8</a>
-      </td>
-    </tr>
-    <tr>
-      <td valign="middle">
-        <img src="logos/nvidia.png" width="40" height="40" alt="NVIDIA">
-        <strong><a href="https://github.com/NVIDIA/kvpress">NVIDIA/kvpress</a></strong><br>
-        KV cache compression for transformers
-      </td>
-      <td valign="middle">
-        <a href="https://github.com/NVIDIA/kvpress/pull/299">#299</a>
       </td>
     </tr>
     <tr>
