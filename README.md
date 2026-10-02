@@ -1060,6 +1060,46 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/fatturaelettronicaphp/FatturaElettronica/pull/115">#115</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/pycparser.png" width="40" height="40" alt="pycparser">
+        <strong><a href="https://github.com/eliben/pycparser">eliben/pycparser</a></strong><br>
+        C parser written in Python
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/eliben/pycparser/pull/609">#609</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/go-finance.png" width="40" height="40" alt="go-finance">
+        <strong><a href="https://github.com/alpeb/go-finance">alpeb/go-finance</a></strong><br>
+        Finance functions for Go
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/alpeb/go-finance/pull/8">#8</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/nvidia.png" width="40" height="40" alt="NVIDIA">
+        <strong><a href="https://github.com/NVIDIA/kvpress">NVIDIA/kvpress</a></strong><br>
+        KV cache compression for transformers
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/NVIDIA/kvpress/pull/299">#299</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/soupsieve.png" width="40" height="40" alt="soupsieve">
+        <strong><a href="https://github.com/facelessuser/soupsieve">facelessuser/soupsieve</a></strong><br>
+        CSS selector library for Beautiful Soup
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/facelessuser/soupsieve/pull/308">#308</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
