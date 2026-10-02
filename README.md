@@ -1120,6 +1120,26 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/PyMySQL/PyMySQL/pull/1280">#1280</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/pchart.png" width="40" height="40" alt="pChart">
+        <strong><a href="https://github.com/bozhinov/pChart2.0-for-PHP7">bozhinov/pChart2.0-for-PHP7</a></strong><br>
+        Chart library for PHP 7
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/bozhinov/pChart2.0-for-PHP7/pull/46">#46</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/wcwidth.png" width="40" height="40" alt="wcwidth">
+        <strong><a href="https://github.com/jquast/wcwidth">jquast/wcwidth</a></strong><br>
+        Terminal column width for Unicode
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/jquast/wcwidth/pull/288">#288</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
