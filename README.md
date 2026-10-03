@@ -34,6 +34,16 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td valign="middle">
+        <img src="logos/vela.png" width="40" height="40" alt="Vela">
+        <strong><a href="https://github.com/NVIDIA/Vela">NVIDIA/Vela</a></strong><br>
+        Visualization engine for ANARI
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/NVIDIA/Vela/pull/12">#12</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
         <img src="logos/modelcontextprotocol.png" width="40" height="40" alt="MCP">
         <strong><a href="https://github.com/modelcontextprotocol/registry">modelcontextprotocol/registry</a></strong><br>
         Official registry for MCP servers
@@ -143,6 +153,18 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/solana-program/record/pull/363">record#363</a><br>
         <a href="https://github.com/solana-program/compute-budget/pull/37">compute#37</a> ·
         <a href="https://github.com/solana-program/feature-gate/pull/83">feature#83</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/sparkdash.png" width="40" height="40" alt="sparkDash">
+        <strong><a href="https://github.com/MiaAI-Lab/sparkDash">MiaAI-Lab/sparkDash</a></strong><br>
+        Monitoring dashboard for DGX Spark
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/MiaAI-Lab/sparkDash/pull/117">#117</a>
+        <a href="https://github.com/MiaAI-Lab/sparkDash/pull/128">#128</a>
+        <a href="https://github.com/MiaAI-Lab/sparkDash/pull/129">#129</a>
       </td>
     </tr>
     <tr>
@@ -970,18 +992,6 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td valign="middle">
-        <img src="logos/sparkdash.png" width="40" height="40" alt="sparkDash">
-        <strong><a href="https://github.com/MiaAI-Lab/sparkDash">MiaAI-Lab/sparkDash</a></strong><br>
-        Monitoring dashboard for DGX Spark
-      </td>
-      <td valign="middle">
-        <a href="https://github.com/MiaAI-Lab/sparkDash/pull/117">#117</a>
-        <a href="https://github.com/MiaAI-Lab/sparkDash/pull/128">#128</a>
-        <a href="https://github.com/MiaAI-Lab/sparkDash/pull/129">#129</a>
-      </td>
-    </tr>
-    <tr>
-      <td valign="middle">
         <img src="logos/maid.png" width="40" height="40" alt="maid">
         <strong><a href="https://github.com/Mobile-Artificial-Intelligence/maid">Mobile-Artificial-Intelligence/maid</a></strong><br>
         Local and remote LLM chat
@@ -1138,16 +1148,6 @@ Merged only. Detail lives on each PR.
       </td>
       <td valign="middle">
         <a href="https://github.com/jquast/wcwidth/pull/288">#288</a>
-      </td>
-    </tr>
-    <tr>
-      <td valign="middle">
-        <img src="logos/vela.png" width="40" height="40" alt="Vela">
-        <strong><a href="https://github.com/NVIDIA/Vela">NVIDIA/Vela</a></strong><br>
-        Visualization engine for ANARI
-      </td>
-      <td valign="middle">
-        <a href="https://github.com/NVIDIA/Vela/pull/12">#12</a>
       </td>
     </tr>
     <tr>
