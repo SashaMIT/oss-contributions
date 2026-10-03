@@ -1140,6 +1140,56 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/jquast/wcwidth/pull/288">#288</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/vela.png" width="40" height="40" alt="Vela">
+        <strong><a href="https://github.com/NVIDIA/Vela">NVIDIA/Vela</a></strong><br>
+        Visualization engine for ANARI
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/NVIDIA/Vela/pull/12">#12</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/strfmt.png" width="40" height="40" alt="strfmt">
+        <strong><a href="https://github.com/go-openapi/strfmt">go-openapi/strfmt</a></strong><br>
+        OpenAPI string formats for Go
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/go-openapi/strfmt/pull/312">#312</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/pint.png" width="40" height="40" alt="pint">
+        <strong><a href="https://github.com/hgrecco/pint">hgrecco/pint</a></strong><br>
+        Physical quantities for Python
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/hgrecco/pint/pull/2436">#2436</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/tengo.png" width="40" height="40" alt="tengo">
+        <strong><a href="https://github.com/d5/tengo">d5/tengo</a></strong><br>
+        A fast script language for Go
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/d5/tengo/pull/486">#486</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/pgx.png" width="40" height="40" alt="pgx">
+        <strong><a href="https://github.com/jackc/pgx">jackc/pgx</a></strong><br>
+        PostgreSQL driver and toolkit for Go
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/jackc/pgx/pull/2668">#2668</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
