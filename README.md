@@ -1220,6 +1220,36 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/antchfx/xpath/pull/147">#147</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/go-sqlbuilder.png" width="40" height="40" alt="go-sqlbuilder">
+        <strong><a href="https://github.com/huandu/go-sqlbuilder">huandu/go-sqlbuilder</a></strong><br>
+        SQL string builder for Go
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/huandu/go-sqlbuilder/pull/247">#247</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/decimal.png" width="40" height="40" alt="decimal">
+        <strong><a href="https://github.com/shopspring/decimal">shopspring/decimal</a></strong><br>
+        Arbitrary-precision decimals for Go
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/shopspring/decimal/pull/437">#437</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/swissqrbill.png" width="40" height="40" alt="swissqrbill">
+        <strong><a href="https://github.com/schoero/swissqrbill">schoero/swissqrbill</a></strong><br>
+        Swiss QR bills for Node.js and browsers
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/schoero/swissqrbill/pull/479">#479</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
