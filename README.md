@@ -1210,6 +1210,16 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/0xSero/local-ai-registry/pull/161">#161</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/xpath.png" width="40" height="40" alt="xpath">
+        <strong><a href="https://github.com/antchfx/xpath">antchfx/xpath</a></strong><br>
+        XPath queries for Go
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/antchfx/xpath/pull/147">#147</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
