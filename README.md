@@ -1190,6 +1190,26 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/jackc/pgx/pull/2668">#2668</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/ojg.png" width="40" height="40" alt="ojg">
+        <strong><a href="https://github.com/ohler55/ojg">ohler55/ojg</a></strong><br>
+        Optimized JSON for Go
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/ohler55/ojg/pull/239">#239</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/local-ai-registry.png" width="40" height="40" alt="local-ai-registry">
+        <strong><a href="https://github.com/0xSero/local-ai-registry">0xSero/local-ai-registry</a></strong><br>
+        Local AI registry of validated machine recipes
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/0xSero/local-ai-registry/pull/161">#161</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
