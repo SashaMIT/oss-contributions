@@ -1250,6 +1250,16 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/schoero/swissqrbill/pull/479">#479</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/phonenumber.png" width="40" height="40" alt="phonenumber">
+        <strong><a href="https://github.com/dongri/phonenumber">dongri/phonenumber</a></strong><br>
+        Format mobile numbers to E.164
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/dongri/phonenumber/pull/56">#56</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
