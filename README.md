@@ -90,7 +90,8 @@ Merged only. Detail lives on each PR.
       <td valign="middle">
         <a href="https://github.com/NVIDIA/kvpress/pull/299">kvpress#299</a> ·
         <a href="https://github.com/NVIDIA/Vela/pull/12">Vela#12</a> ·
-        <a href="https://github.com/NVIDIA/k8s-nim-operator/pull/935">k8s-nim-operator#935</a>
+        <a href="https://github.com/NVIDIA/k8s-nim-operator/pull/935">k8s-nim-operator#935</a> ·
+        <a href="https://github.com/NVIDIA/go-nvlib/pull/121">go-nvlib#121</a>
       </td>
     </tr>
     <tr>
