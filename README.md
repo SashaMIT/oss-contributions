@@ -24,17 +24,6 @@ Merged only. Detail lives on each PR.
     </tr>
     <tr>
       <td valign="middle">
-        <img src="logos/nvidia.png" width="40" height="40" alt="NVIDIA">
-        <strong><a href="https://github.com/NVIDIA">NVIDIA</a></strong>
-      </td>
-      <td valign="middle">
-        <a href="https://github.com/NVIDIA/kvpress/pull/299">kvpress#299</a> ·
-        <a href="https://github.com/NVIDIA/Vela/pull/12">Vela#12</a> ·
-        <a href="https://github.com/NVIDIA/k8s-nim-operator/pull/935">k8s-nim-operator#935</a>
-      </td>
-    </tr>
-    <tr>
-      <td valign="middle">
         <img src="logos/modelcontextprotocol.png" width="40" height="40" alt="MCP">
         <strong><a href="https://github.com/modelcontextprotocol/registry">modelcontextprotocol/registry</a></strong><br>
         Official registry for MCP servers
@@ -91,6 +80,17 @@ Merged only. Detail lives on each PR.
       <td valign="middle">
         <a href="https://github.com/foundry-rs/foundry/pull/16096">#16096</a> ·
         <a href="https://github.com/foundry-rs/foundry/pull/16237">#16237</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/nvidia.png" width="40" height="40" alt="NVIDIA">
+        <strong><a href="https://github.com/NVIDIA">NVIDIA</a></strong>
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/NVIDIA/kvpress/pull/299">kvpress#299</a> ·
+        <a href="https://github.com/NVIDIA/Vela/pull/12">Vela#12</a> ·
+        <a href="https://github.com/NVIDIA/k8s-nim-operator/pull/935">k8s-nim-operator#935</a>
       </td>
     </tr>
     <tr>
