@@ -25,21 +25,12 @@ Merged only. Detail lives on each PR.
     <tr>
       <td valign="middle">
         <img src="logos/nvidia.png" width="40" height="40" alt="NVIDIA">
-        <strong><a href="https://github.com/NVIDIA/kvpress">NVIDIA/kvpress</a></strong><br>
-        KV cache compression for transformers
+        <strong><a href="https://github.com/NVIDIA">NVIDIA</a></strong>
       </td>
       <td valign="middle">
-        <a href="https://github.com/NVIDIA/kvpress/pull/299">#299</a>
-      </td>
-    </tr>
-    <tr>
-      <td valign="middle">
-        <img src="logos/vela.png" width="40" height="40" alt="Vela">
-        <strong><a href="https://github.com/NVIDIA/Vela">NVIDIA/Vela</a></strong><br>
-        Visualization engine for ANARI
-      </td>
-      <td valign="middle">
-        <a href="https://github.com/NVIDIA/Vela/pull/12">#12</a>
+        <a href="https://github.com/NVIDIA/kvpress/pull/299">kvpress#299</a> ·
+        <a href="https://github.com/NVIDIA/Vela/pull/12">Vela#12</a> ·
+        <a href="https://github.com/NVIDIA/k8s-nim-operator/pull/935">k8s-nim-operator#935</a>
       </td>
     </tr>
     <tr>
@@ -1269,16 +1260,6 @@ Merged only. Detail lives on each PR.
       <td valign="middle">
         <a href="https://github.com/openclaw/openclaw/pull/165531">#165531</a> ·
         <a href="https://github.com/openclaw/openclaw/pull/165523">#165523</a>
-      </td>
-    </tr>
-    <tr>
-      <td valign="middle">
-        <img src="logos/nvidia.png" width="40" height="40" alt="NVIDIA">
-        <strong><a href="https://github.com/NVIDIA/k8s-nim-operator">NVIDIA/k8s-nim-operator</a></strong><br>
-        Operator for NVIDIA NIM and NeMo services on Kubernetes
-      </td>
-      <td valign="middle">
-        <a href="https://github.com/NVIDIA/k8s-nim-operator/pull/935">#935</a>
       </td>
     </tr>
     <tr>
