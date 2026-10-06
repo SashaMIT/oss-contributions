@@ -1260,6 +1260,37 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/dongri/phonenumber/pull/56">#56</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/openclaw.png" width="40" height="40" alt="OpenClaw">
+        <strong><a href="https://github.com/openclaw/openclaw">openclaw/openclaw</a></strong><br>
+        Personal AI assistant
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/openclaw/openclaw/pull/165531">#165531</a> ·
+        <a href="https://github.com/openclaw/openclaw/pull/165523">#165523</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/nvidia.png" width="40" height="40" alt="NVIDIA">
+        <strong><a href="https://github.com/NVIDIA/k8s-nim-operator">NVIDIA/k8s-nim-operator</a></strong><br>
+        Operator for NVIDIA NIM and NeMo services on Kubernetes
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/NVIDIA/k8s-nim-operator/pull/935">#935</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/lektor.png" width="40" height="40" alt="Lektor">
+        <strong><a href="https://github.com/lektor/lektor">lektor/lektor</a></strong><br>
+        Static file content management system
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/lektor/lektor/pull/1294">#1294</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
