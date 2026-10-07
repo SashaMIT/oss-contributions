@@ -91,7 +91,8 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/NVIDIA/kvpress/pull/299">kvpress#299</a> ·
         <a href="https://github.com/NVIDIA/Vela/pull/12">Vela#12</a> ·
         <a href="https://github.com/NVIDIA/k8s-nim-operator/pull/935">k8s-nim-operator#935</a> ·
-        <a href="https://github.com/NVIDIA/go-nvlib/pull/121">go-nvlib#121</a>
+        <a href="https://github.com/NVIDIA/go-nvlib/pull/121">go-nvlib#121</a> ·
+        <a href="https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2279">NeMo-Agent-Toolkit#2279</a>
       </td>
     </tr>
     <tr>
@@ -1271,6 +1272,36 @@ Merged only. Detail lives on each PR.
       </td>
       <td valign="middle">
         <a href="https://github.com/lektor/lektor/pull/1294">#1294</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/goja.png" width="40" height="40" alt="goja">
+        <strong><a href="https://github.com/dop251/goja">dop251/goja</a></strong><br>
+        ECMAScript engine in Go
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/dop251/goja/pull/770">#770</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/stats.png" width="40" height="40" alt="stats">
+        <strong><a href="https://github.com/montanaflynn/stats">montanaflynn/stats</a></strong><br>
+        Statistics library for Go
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/montanaflynn/stats/pull/140">#140</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/period.png" width="40" height="40" alt="period">
+        <strong><a href="https://github.com/rickb777/period">rickb777/period</a></strong><br>
+        ISO-8601 periods of time
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/rickb777/period/pull/8">#8</a>
       </td>
     </tr>
   </tbody>
