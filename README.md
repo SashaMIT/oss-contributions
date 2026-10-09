@@ -92,7 +92,9 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/NVIDIA/Vela/pull/12">Vela#12</a> ·
         <a href="https://github.com/NVIDIA/k8s-nim-operator/pull/935">k8s-nim-operator#935</a> ·
         <a href="https://github.com/NVIDIA/go-nvlib/pull/121">go-nvlib#121</a> ·
-        <a href="https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2279">NeMo-Agent-Toolkit#2279</a>
+        <a href="https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2279">NeMo-Agent-Toolkit#2279</a> ·
+        <a href="https://github.com/NVIDIA/nvbench/pull/486">nvbench#486</a> ·
+        <a href="https://github.com/NVIDIA/gpu-driver-container/pull/1034">gpu-driver-container#1034</a>
       </td>
     </tr>
     <tr>
@@ -1302,6 +1304,46 @@ Merged only. Detail lives on each PR.
       </td>
       <td valign="middle">
         <a href="https://github.com/rickb777/period/pull/8">#8</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/ragflow.png" width="40" height="40" alt="RAGFlow">
+        <strong><a href="https://github.com/infiniflow/ragflow">infiniflow/ragflow</a></strong><br>
+        Open-source retrieval-augmented generation engine
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/infiniflow/ragflow/pull/20414">#20414</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/mapie.png" width="40" height="40" alt="MAPIE">
+        <strong><a href="https://github.com/scikit-learn-contrib/MAPIE">scikit-learn-contrib/MAPIE</a></strong><br>
+        Conformal prediction intervals for scikit-learn
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/scikit-learn-contrib/MAPIE/pull/994">#994</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/trellis-serve.jpg" width="40" height="40" alt="trellis-serve">
+        <strong><a href="https://github.com/sybil-solutions/trellis-serve">sybil-solutions/trellis-serve</a></strong><br>
+        EXL3 trellis serving for SGLang and vLLM
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/sybil-solutions/trellis-serve/pull/4">#4</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/interledger.png" width="40" height="40" alt="Open Payments">
+        <strong><a href="https://github.com/interledger/open-payments-php">interledger/open-payments-php</a></strong><br>
+        PHP client for Open Payments
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/interledger/open-payments-php/pull/9">#9</a>
       </td>
     </tr>
   </tbody>
