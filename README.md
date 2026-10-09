@@ -94,7 +94,8 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/NVIDIA/go-nvlib/pull/121">go-nvlib#121</a> ·
         <a href="https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2279">NeMo-Agent-Toolkit#2279</a> ·
         <a href="https://github.com/NVIDIA/nvbench/pull/486">nvbench#486</a> ·
-        <a href="https://github.com/NVIDIA/gpu-driver-container/pull/1034">gpu-driver-container#1034</a>
+        <a href="https://github.com/NVIDIA/gpu-driver-container/pull/1034">gpu-driver-container#1034</a> ·
+        <a href="https://github.com/NVIDIA-NeMo/Run/pull/618">Run#618</a>
       </td>
     </tr>
     <tr>
@@ -1344,6 +1345,16 @@ Merged only. Detail lives on each PR.
       </td>
       <td valign="middle">
         <a href="https://github.com/interledger/open-payments-php/pull/9">#9</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/php-prices.png" width="40" height="40" alt="php-prices">
+        <strong><a href="https://github.com/whitecube/php-prices">whitecube/php-prices</a></strong><br>
+        PHP library for monetary prices
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/whitecube/php-prices/pull/22">#22</a>
       </td>
     </tr>
   </tbody>
