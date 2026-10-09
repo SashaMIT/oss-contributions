@@ -1367,6 +1367,16 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/skrub-data/skrub/pull/2311">#2311</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/togeojson.png" width="40" height="40" alt="togeojson">
+        <strong><a href="https://github.com/placemark/togeojson">placemark/togeojson</a></strong><br>
+        Convert KML, TCX, and GPX to GeoJSON
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/placemark/togeojson/pull/148">#148</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
