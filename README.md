@@ -127,7 +127,8 @@ Merged only. Detail lives on each PR.
       </td>
       <td valign="middle">
         <a href="https://github.com/a2aproject/a2a-python/pull/1173">#1173</a> ·
-        <a href="https://github.com/a2aproject/a2a-python/pull/1164">#1164</a>
+        <a href="https://github.com/a2aproject/a2a-python/pull/1164">#1164</a> ·
+        <a href="https://github.com/a2aproject/a2a-dotnet/pull/541">a2a-dotnet#541</a>
       </td>
     </tr>
     <tr>
