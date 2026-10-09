@@ -1357,6 +1357,16 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/whitecube/php-prices/pull/22">#22</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/skrub.png" width="40" height="40" alt="skrub">
+        <strong><a href="https://github.com/skrub-data/skrub">skrub-data/skrub</a></strong><br>
+        Machine learning with dataframes
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/skrub-data/skrub/pull/2311">#2311</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
