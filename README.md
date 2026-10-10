@@ -1399,6 +1399,36 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/MiaAI-Lab/Qwen3.8-27B-16gb-NVIDIA-GPUs-one-click-install/pull/12">#12</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/jsonquery.png" width="40" height="40" alt="jsonquery">
+        <strong><a href="https://github.com/antchfx/jsonquery">antchfx/jsonquery</a></strong><br>
+        XPath-style queries for JSON
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/antchfx/jsonquery/pull/28">#28</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/mlx.png" width="40" height="40" alt="MLX">
+        <strong><a href="https://github.com/ml-explore/mlx">ml-explore/mlx</a></strong><br>
+        Array framework for Apple silicon
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/ml-explore/mlx/pull/4668">#4668</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/validators.png" width="40" height="40" alt="validators">
+        <strong><a href="https://github.com/python-validators/validators">python-validators/validators</a></strong><br>
+        Python validators
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/python-validators/validators/pull/485">#485</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
