@@ -356,7 +356,8 @@ Merged only. Detail lives on each PR.
         Fast and secure WebAssembly runtime
       </td>
       <td valign="middle">
-        <a href="https://github.com/bytecodealliance/wasmtime/pull/14123">#14123</a>
+        <a href="https://github.com/bytecodealliance/wasmtime/pull/14123">#14123</a> ·
+        <a href="https://github.com/bytecodealliance/wasmtime/pull/14621">#14621</a>
       </td>
     </tr>
     <tr>
@@ -1376,6 +1377,26 @@ Merged only. Detail lives on each PR.
       </td>
       <td valign="middle">
         <a href="https://github.com/placemark/togeojson/pull/148">#148</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/bitpay.png" width="40" height="40" alt="BitPay">
+        <strong><a href="https://github.com/bitpay/java-bitpay-client">bitpay/java-bitpay-client</a></strong><br>
+        Java client for the BitPay API
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/bitpay/java-bitpay-client/pull/473">#473</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/miaai.png" width="40" height="40" alt="MiaAI Lab">
+        <strong><a href="https://github.com/MiaAI-Lab/Qwen3.8-27B-16gb-NVIDIA-GPUs-one-click-install">MiaAI-Lab/Qwen3.8-27B-16gb-NVIDIA-GPUs-one-click-install</a></strong><br>
+        One-click Qwen install for 16GB NVIDIA GPUs
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/MiaAI-Lab/Qwen3.8-27B-16gb-NVIDIA-GPUs-one-click-install/pull/12">#12</a>
       </td>
     </tr>
   </tbody>
