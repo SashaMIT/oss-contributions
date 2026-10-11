@@ -95,7 +95,8 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2279">NeMo-Agent-Toolkit#2279</a> ·
         <a href="https://github.com/NVIDIA/nvbench/pull/486">nvbench#486</a> ·
         <a href="https://github.com/NVIDIA/gpu-driver-container/pull/1034">gpu-driver-container#1034</a> ·
-        <a href="https://github.com/NVIDIA-NeMo/Run/pull/618">Run#618</a>
+        <a href="https://github.com/NVIDIA-NeMo/Run/pull/618">Run#618</a> ·
+        <a href="https://github.com/NVIDIA/garak/pull/2255">garak#2255</a>
       </td>
     </tr>
     <tr>
@@ -1447,6 +1448,37 @@ Merged only. Detail lives on each PR.
       </td>
       <td valign="middle">
         <a href="https://github.com/cyberphone/json-canonicalization/pull/38">#38</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/react-currency-input-field.png" width="40" height="40" alt="react-currency-input-field">
+        <strong><a href="https://github.com/cchanxzy/react-currency-input-field">cchanxzy/react-currency-input-field</a></strong><br>
+        Currency input for React
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/cchanxzy/react-currency-input-field/pull/430">#430</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/barcode.png" width="40" height="40" alt="barcode">
+        <strong><a href="https://github.com/boombuler/barcode">boombuler/barcode</a></strong><br>
+        Barcode creation for Go
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/boombuler/barcode/pull/97">#97</a> ·
+        <a href="https://github.com/boombuler/barcode/pull/98">#98</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/lldp.png" width="40" height="40" alt="lldp">
+        <strong><a href="https://github.com/mdlayher/lldp">mdlayher/lldp</a></strong><br>
+        Link Layer Discovery Protocol frames
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/mdlayher/lldp/pull/1">#1</a>
       </td>
     </tr>
   </tbody>
