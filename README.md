@@ -1429,6 +1429,16 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/python-validators/validators/pull/485">#485</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/espnet.png" width="40" height="40" alt="ESPnet">
+        <strong><a href="https://github.com/espnet/espnet">espnet/espnet</a></strong><br>
+        End-to-end speech processing toolkit
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/espnet/espnet/pull/6816">#6816</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
