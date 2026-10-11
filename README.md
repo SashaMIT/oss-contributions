@@ -1439,6 +1439,16 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/espnet/espnet/pull/6816">#6816</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/json-canonicalization.png" width="40" height="40" alt="JSON Canonicalization">
+        <strong><a href="https://github.com/cyberphone/json-canonicalization">cyberphone/json-canonicalization</a></strong><br>
+        JSON Canonicalization Scheme (RFC 8785)
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/cyberphone/json-canonicalization/pull/38">#38</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
