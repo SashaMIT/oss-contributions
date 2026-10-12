@@ -1481,6 +1481,26 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/mdlayher/lldp/pull/1">#1</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/mesh.png" width="40" height="40" alt="Mesh">
+        <strong><a href="https://github.com/MeshJS/mesh">MeshJS/mesh</a></strong><br>
+        TypeScript libraries for Cardano
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/MeshJS/mesh/pull/847">#847</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/openvox.png" width="40" height="40" alt="OpenVox CA">
+        <strong><a href="https://github.com/voxpupuli/openvox-ca">voxpupuli/openvox-ca</a></strong><br>
+        Puppet CA in Go
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/voxpupuli/openvox-ca/pull/494">#494</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
