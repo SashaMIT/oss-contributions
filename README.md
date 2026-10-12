@@ -1501,6 +1501,16 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/voxpupuli/openvox-ca/pull/494">#494</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/tomlkit.png" width="40" height="40" alt="tomlkit">
+        <strong><a href="https://github.com/python-poetry/tomlkit">python-poetry/tomlkit</a></strong><br>
+        TOML library for Python
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/python-poetry/tomlkit/pull/626">#626</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
