@@ -1562,6 +1562,16 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/open-telemetry/opentelemetry-go-contrib/pull/9886">#9886</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/dbus.png" width="40" height="40" alt="dbus">
+        <strong><a href="https://github.com/godbus/dbus">godbus/dbus</a></strong><br>
+        Native Go bindings for D-Bus
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/godbus/dbus/pull/448">#448</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
