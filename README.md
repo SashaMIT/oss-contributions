@@ -1552,6 +1552,16 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/chardet/chardet/pull/389">#389</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/opentelemetry-go-contrib.png" width="40" height="40" alt="OpenTelemetry Go contrib">
+        <strong><a href="https://github.com/open-telemetry/opentelemetry-go-contrib">open-telemetry/opentelemetry-go-contrib</a></strong><br>
+        OpenTelemetry instrumentation for Go
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/open-telemetry/opentelemetry-go-contrib/pull/9886">#9886</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
