@@ -1511,6 +1511,36 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/python-poetry/tomlkit/pull/626">#626</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/demangle.png" width="40" height="40" alt="demangle">
+        <strong><a href="https://github.com/ianlancetaylor/demangle">ianlancetaylor/demangle</a></strong><br>
+        C++ symbol demangler
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/ianlancetaylor/demangle/pull/32">#32</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/gopdf.png" width="40" height="40" alt="gopdf">
+        <strong><a href="https://github.com/signintech/gopdf">signintech/gopdf</a></strong><br>
+        PDF generation in Go
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/signintech/gopdf/pull/351">#351</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/lancet.png" width="40" height="40" alt="lancet">
+        <strong><a href="https://github.com/duke-git/lancet">duke-git/lancet</a></strong><br>
+        Go utility library
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/duke-git/lancet/pull/357">#357</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
