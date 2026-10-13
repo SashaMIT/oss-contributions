@@ -1468,7 +1468,8 @@ Merged only. Detail lives on each PR.
       </td>
       <td valign="middle">
         <a href="https://github.com/boombuler/barcode/pull/97">#97</a> ·
-        <a href="https://github.com/boombuler/barcode/pull/98">#98</a>
+        <a href="https://github.com/boombuler/barcode/pull/98">#98</a> ·
+        <a href="https://github.com/boombuler/barcode/pull/99">#99</a>
       </td>
     </tr>
     <tr>
@@ -1539,6 +1540,16 @@ Merged only. Detail lives on each PR.
       </td>
       <td valign="middle">
         <a href="https://github.com/duke-git/lancet/pull/357">#357</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/chardet.png" width="40" height="40" alt="chardet">
+        <strong><a href="https://github.com/chardet/chardet">chardet/chardet</a></strong><br>
+        Charset detection for Python
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/chardet/chardet/pull/389">#389</a>
       </td>
     </tr>
   </tbody>
