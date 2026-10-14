@@ -1217,6 +1217,8 @@ Merged only. Detail lives on each PR.
       </td>
       <td valign="middle">
         <a href="https://github.com/antchfx/xpath/pull/147">#147</a>
+        ·
+        <a href="https://github.com/antchfx/xpath/pull/158">#158</a>
       </td>
     </tr>
     <tr>
@@ -1580,6 +1582,16 @@ Merged only. Detail lives on each PR.
       </td>
       <td valign="middle">
         <a href="https://github.com/insomniacslk/dhcp/pull/602">#602</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/opentelemetry-go.png" width="40" height="40" alt="OpenTelemetry Go">
+        <strong><a href="https://github.com/open-telemetry/opentelemetry-go">open-telemetry/opentelemetry-go</a></strong><br>
+        OpenTelemetry API and SDK for Go
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/open-telemetry/opentelemetry-go/pull/9181">#9181</a>
       </td>
     </tr>
   </tbody>
