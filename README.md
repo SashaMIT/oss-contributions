@@ -1572,6 +1572,16 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/godbus/dbus/pull/448">#448</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/dhcp.png" width="40" height="40" alt="dhcp">
+        <strong><a href="https://github.com/insomniacslk/dhcp">insomniacslk/dhcp</a></strong><br>
+        DHCP protocol library for Go
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/insomniacslk/dhcp/pull/602">#602</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
