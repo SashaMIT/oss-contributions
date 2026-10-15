@@ -96,7 +96,9 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/NVIDIA/nvbench/pull/486">nvbench#486</a> ·
         <a href="https://github.com/NVIDIA/gpu-driver-container/pull/1034">gpu-driver-container#1034</a> ·
         <a href="https://github.com/NVIDIA-NeMo/Run/pull/618">Run#618</a> ·
-        <a href="https://github.com/NVIDIA/garak/pull/2255">garak#2255</a>
+        <a href="https://github.com/NVIDIA/garak/pull/2255">garak#2255</a> ·
+        <a href="https://github.com/NVIDIA/nvidia-container-toolkit/pull/2117">nvidia-container-toolkit#2117</a> ·
+        <a href="https://github.com/NVIDIA-NeMo/Curator/pull/2468">Curator#2468</a>
       </td>
     </tr>
     <tr>
@@ -1592,6 +1594,26 @@ Merged only. Detail lives on each PR.
       </td>
       <td valign="middle">
         <a href="https://github.com/open-telemetry/opentelemetry-go/pull/9181">#9181</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/redcarpet.png" width="40" height="40" alt="redcarpet">
+        <strong><a href="https://github.com/vmg/redcarpet">vmg/redcarpet</a></strong><br>
+        Markdown parser for Ruby
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/vmg/redcarpet/pull/819">#819</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/gocryptotrader.png" width="40" height="40" alt="GoCryptoTrader">
+        <strong><a href="https://github.com/thrasher-corp/gocryptotrader">thrasher-corp/gocryptotrader</a></strong><br>
+        Cryptocurrency trading bot in Go
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/thrasher-corp/gocryptotrader/pull/2470">#2470</a>
       </td>
     </tr>
   </tbody>
