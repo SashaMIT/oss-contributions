@@ -131,7 +131,9 @@ Merged only. Detail lives on each PR.
       <td valign="middle">
         <a href="https://github.com/a2aproject/a2a-python/pull/1173">#1173</a> ·
         <a href="https://github.com/a2aproject/a2a-python/pull/1164">#1164</a> ·
-        <a href="https://github.com/a2aproject/a2a-dotnet/pull/541">a2a-dotnet#541</a>
+        <a href="https://github.com/a2aproject/a2a-dotnet/pull/541">a2a-dotnet#541</a> ·
+        <a href="https://github.com/a2aproject/a2a-rs/pull/332">a2a-rs#332</a> ·
+        <a href="https://github.com/a2aproject/a2a-itk/pull/79">a2a-itk#79</a>
       </td>
     </tr>
     <tr>
@@ -1614,6 +1616,96 @@ Merged only. Detail lives on each PR.
       </td>
       <td valign="middle">
         <a href="https://github.com/thrasher-corp/gocryptotrader/pull/2470">#2470</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/bbit.png" width="40" height="40" alt="bbit Swiss QR Bill">
+        <strong><a href="https://github.com/bbitgmbh/bbit.swiss-qr-bill">bbitgmbh/bbit.swiss-qr-bill</a></strong><br>
+        Swiss QR bill for Node.js
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/bbitgmbh/bbit.swiss-qr-bill/pull/187">#187</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/rclone.png" width="40" height="40" alt="rclone">
+        <strong><a href="https://github.com/rclone/rclone">rclone/rclone</a></strong><br>
+        rsync for cloud storage
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/rclone/rclone/pull/10072">#10072</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/laravel-mollie.png" width="40" height="40" alt="Laravel Mollie">
+        <strong><a href="https://github.com/mollie/laravel-mollie">mollie/laravel-mollie</a></strong><br>
+        Mollie client for Laravel
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/mollie/laravel-mollie/pull/271">#271</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/cardano-client-lib.png" width="40" height="40" alt="cardano-client-lib">
+        <strong><a href="https://github.com/bloxbean/cardano-client-lib">bloxbean/cardano-client-lib</a></strong><br>
+        Cardano client library in Java
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/bloxbean/cardano-client-lib/pull/679">#679</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/ndp.png" width="40" height="40" alt="ndp">
+        <strong><a href="https://github.com/mdlayher/ndp">mdlayher/ndp</a></strong><br>
+        Neighbor Discovery Protocol in Go
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/mdlayher/ndp/pull/33">#33</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/webrtc.png" width="40" height="40" alt="Pion WebRTC">
+        <strong><a href="https://github.com/pion/webrtc">pion/webrtc</a></strong><br>
+        WebRTC in Go
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/pion/webrtc/pull/3620">#3620</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/google-cloud-go.png" width="40" height="40" alt="Google Cloud Go">
+        <strong><a href="https://github.com/googleapis/google-cloud-go">googleapis/google-cloud-go</a></strong><br>
+        Google Cloud client libraries for Go
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/googleapis/google-cloud-go/pull/20659">#20659</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/fwd.png" width="40" height="40" alt="fwd">
+        <strong><a href="https://github.com/philhofer/fwd">philhofer/fwd</a></strong><br>
+        Buffered Reader and Writer
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/philhofer/fwd/pull/38">#38</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/erigon.png" width="40" height="40" alt="Erigon">
+        <strong><a href="https://github.com/erigontech/erigon">erigontech/erigon</a></strong><br>
+        Ethereum implementation in Go
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/erigontech/erigon/pull/23030">#23030</a>
       </td>
     </tr>
   </tbody>
