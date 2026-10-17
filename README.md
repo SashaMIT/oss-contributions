@@ -131,6 +131,7 @@ Merged only. Detail lives on each PR.
       <td valign="middle">
         <a href="https://github.com/a2aproject/a2a-python/pull/1173">#1173</a> ·
         <a href="https://github.com/a2aproject/a2a-python/pull/1164">#1164</a> ·
+        <a href="https://github.com/a2aproject/a2a-python/pull/1326">#1326</a> ·
         <a href="https://github.com/a2aproject/a2a-dotnet/pull/541">a2a-dotnet#541</a> ·
         <a href="https://github.com/a2aproject/a2a-rs/pull/332">a2a-rs#332</a> ·
         <a href="https://github.com/a2aproject/a2a-itk/pull/79">a2a-itk#79</a>
@@ -1706,6 +1707,16 @@ Merged only. Detail lives on each PR.
       </td>
       <td valign="middle">
         <a href="https://github.com/erigontech/erigon/pull/23030">#23030</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/levenshtein.png" width="40" height="40" alt="levenshtein">
+        <strong><a href="https://github.com/agnivade/levenshtein">agnivade/levenshtein</a></strong><br>
+        Levenshtein distance in Go
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/agnivade/levenshtein/pull/38">#38</a>
       </td>
     </tr>
   </tbody>
