@@ -1719,6 +1719,26 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/agnivade/levenshtein/pull/38">#38</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/go-units.png" width="40" height="40" alt="go-units">
+        <strong><a href="https://github.com/bcicen/go-units">bcicen/go-units</a></strong><br>
+        Unit conversion in Go
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/bcicen/go-units/pull/37">#37</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/graphql-js.png" width="40" height="40" alt="GraphQL.js">
+        <strong><a href="https://github.com/graphql/graphql-js">graphql/graphql-js</a></strong><br>
+        A reference implementation of GraphQL for JavaScript
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/graphql/graphql-js/pull/4865">#4865</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
