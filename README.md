@@ -177,7 +177,8 @@ Merged only. Detail lives on each PR.
         Solana validator client (Agave)
       </td>
       <td valign="middle">
-        <a href="https://github.com/anza-xyz/agave/pull/14336">#14336</a>
+        <a href="https://github.com/anza-xyz/agave/pull/14336">#14336</a> ·
+        <a href="https://github.com/anza-xyz/agave/pull/14558">#14558</a>
       </td>
     </tr>
     <tr>
@@ -1131,7 +1132,8 @@ Merged only. Detail lives on each PR.
         Pure Python MySQL and MariaDB client
       </td>
       <td valign="middle">
-        <a href="https://github.com/PyMySQL/PyMySQL/pull/1280">#1280</a>
+        <a href="https://github.com/PyMySQL/PyMySQL/pull/1280">#1280</a> ·
+        <a href="https://github.com/PyMySQL/PyMySQL/pull/1282">#1282</a>
       </td>
     </tr>
     <tr>
@@ -1737,6 +1739,46 @@ Merged only. Detail lives on each PR.
       </td>
       <td valign="middle">
         <a href="https://github.com/graphql/graphql-js/pull/4865">#4865</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/uint256.png" width="40" height="40" alt="uint256">
+        <strong><a href="https://github.com/holiman/uint256">holiman/uint256</a></strong><br>
+        Fixed size 256-bit math library
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/holiman/uint256/pull/225">#225</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/mistune.png" width="40" height="40" alt="mistune">
+        <strong><a href="https://github.com/lepture/mistune">lepture/mistune</a></strong><br>
+        A fast Python Markdown parser
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/lepture/mistune/pull/494">#494</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/spatie.png" width="40" height="40" alt="Spatie holidays">
+        <strong><a href="https://github.com/spatie/holidays">spatie/holidays</a></strong><br>
+        Public holiday dates
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/spatie/holidays/pull/344">#344</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/spatie.png" width="40" height="40" alt="Spatie period">
+        <strong><a href="https://github.com/spatie/period">spatie/period</a></strong><br>
+        Complex period comparisons
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/spatie/period/pull/154">#154</a>
       </td>
     </tr>
   </tbody>
