@@ -1781,6 +1781,26 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/spatie/period/pull/154">#154</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/lerobot.png" width="40" height="40" alt="LeRobot">
+        <strong><a href="https://github.com/huggingface/lerobot">huggingface/lerobot</a></strong><br>
+        End-to-end libraries for robot learning
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/huggingface/lerobot/pull/4810">#4810</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/quagga2.png" width="40" height="40" alt="quagga2">
+        <strong><a href="https://github.com/ericblade/quagga2">ericblade/quagga2</a></strong><br>
+        Barcode scanner for the browser
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/ericblade/quagga2/pull/695">#695</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
