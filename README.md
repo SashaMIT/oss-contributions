@@ -41,7 +41,8 @@ Merged only. Detail lives on each PR.
       <td valign="middle">
         <a href="https://github.com/x402-foundation/x402/pull/3034">#3034</a> ·
         <a href="https://github.com/x402-foundation/x402/pull/3033">#3033</a> ·
-        <a href="https://github.com/x402-foundation/x402/pull/3032">#3032</a>
+        <a href="https://github.com/x402-foundation/x402/pull/3032">#3032</a> ·
+        <a href="https://github.com/x402-foundation/x402/pull/3096">#3096</a>
       </td>
     </tr>
     <tr>
@@ -134,7 +135,8 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/a2aproject/a2a-python/pull/1326">#1326</a> ·
         <a href="https://github.com/a2aproject/a2a-dotnet/pull/541">a2a-dotnet#541</a> ·
         <a href="https://github.com/a2aproject/a2a-rs/pull/332">a2a-rs#332</a> ·
-        <a href="https://github.com/a2aproject/a2a-itk/pull/79">a2a-itk#79</a>
+        <a href="https://github.com/a2aproject/a2a-itk/pull/79">a2a-itk#79</a> ·
+        <a href="https://github.com/a2aproject/a2a-js/pull/786">a2a-js#786</a>
       </td>
     </tr>
     <tr>
@@ -332,6 +334,7 @@ Merged only. Detail lives on each PR.
       </td>
       <td valign="middle">
         <a href="https://github.com/envoyproxy/envoy/pull/46580">#46580</a> ·
+        <a href="https://github.com/envoyproxy/envoy/pull/46581">#46581</a> ·
         <a href="https://github.com/envoyproxy/envoy/pull/46586">#46586</a>
       </td>
     </tr>
@@ -1799,6 +1802,66 @@ Merged only. Detail lives on each PR.
       </td>
       <td valign="middle">
         <a href="https://github.com/ericblade/quagga2/pull/695">#695</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/ogam.png" width="40" height="40" alt="OGAM">
+        <strong><a href="https://github.com/off-grid-ai/OGAM">off-grid-ai/OGAM</a></strong><br>
+        Offline chat, vision, speech, and image generation
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/off-grid-ai/OGAM/pull/695">#695</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/staedi.png" width="40" height="40" alt="staedi">
+        <strong><a href="https://github.com/xlate/staedi">xlate/staedi</a></strong><br>
+        Streaming Java library for reading and writing EDI
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/xlate/staedi/pull/649">#649</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/lhotse.png" width="40" height="40" alt="Lhotse">
+        <strong><a href="https://github.com/lhotse-speech/lhotse">lhotse-speech/lhotse</a></strong><br>
+        Speech and audio data preparation
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/lhotse-speech/lhotse/pull/1595">#1595</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/aeon.png" width="40" height="40" alt="aeon">
+        <strong><a href="https://github.com/aeon-toolkit/aeon">aeon-toolkit/aeon</a></strong><br>
+        Time series machine learning toolkit
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/aeon-toolkit/aeon/pull/3881">#3881</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/venus.png" width="40" height="40" alt="Venus">
+        <strong><a href="https://github.com/filecoin-project/venus">filecoin-project/venus</a></strong><br>
+        Filecoin full node in Go
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/filecoin-project/venus/pull/6568">#6568</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/unstructured.png" width="40" height="40" alt="Unstructured">
+        <strong><a href="https://github.com/Unstructured-IO/unstructured">Unstructured-IO/unstructured</a></strong><br>
+        Turn documents into structured data
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/Unstructured-IO/unstructured/pull/4507">#4507</a>
       </td>
     </tr>
   </tbody>
