@@ -1865,6 +1865,26 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/Unstructured-IO/unstructured/pull/4507">#4507</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/neurokit.png" width="40" height="40" alt="NeuroKit">
+        <strong><a href="https://github.com/neuropsychology/NeuroKit">neuropsychology/NeuroKit</a></strong><br>
+        Python toolbox for neurophysiological signals
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/neuropsychology/NeuroKit/pull/1213">#1213</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/orb.png" width="40" height="40" alt="orb">
+        <strong><a href="https://github.com/paulmach/orb">paulmach/orb</a></strong><br>
+        Types and utilities for 2D geometry in Go
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/paulmach/orb/pull/182">#182</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
