@@ -137,7 +137,8 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/a2aproject/a2a-dotnet/pull/541">a2a-dotnet#541</a> ·
         <a href="https://github.com/a2aproject/a2a-rs/pull/332">a2a-rs#332</a> ·
         <a href="https://github.com/a2aproject/a2a-itk/pull/79">a2a-itk#79</a> ·
-        <a href="https://github.com/a2aproject/a2a-js/pull/786">a2a-js#786</a>
+        <a href="https://github.com/a2aproject/a2a-js/pull/786">a2a-js#786</a> ·
+        <a href="https://github.com/a2aproject/a2a-java/pull/1209">a2a-java#1209</a>
       </td>
     </tr>
     <tr>
@@ -1883,6 +1884,16 @@ Merged only. Detail lives on each PR.
       </td>
       <td valign="middle">
         <a href="https://github.com/paulmach/orb/pull/182">#182</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/gronx.png" width="40" height="40" alt="gronx">
+        <strong><a href="https://github.com/adhocore/gronx">adhocore/gronx</a></strong><br>
+        Cron expression parser and scheduler for Go
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/adhocore/gronx/pull/78">#78</a>
       </td>
     </tr>
   </tbody>
