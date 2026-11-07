@@ -1896,6 +1896,26 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/adhocore/gronx/pull/78">#78</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/specter.png" width="40" height="40" alt="Specter">
+        <strong><a href="https://github.com/cryptoadvance/specter-desktop">cryptoadvance/specter-desktop</a></strong><br>
+        Desktop GUI for Bitcoin Core
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/cryptoadvance/specter-desktop/pull/2714">#2714</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/saml.png" width="40" height="40" alt="saml">
+        <strong><a href="https://github.com/crewjam/saml">crewjam/saml</a></strong><br>
+        SAML library for Go
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/crewjam/saml/pull/686">#686</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
