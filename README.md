@@ -1916,6 +1916,46 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/crewjam/saml/pull/686">#686</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/modelscope.png" width="40" height="40" alt="ModelScope">
+        <strong><a href="https://github.com/modelscope/modelscope">modelscope/modelscope</a></strong><br>
+        Model-as-a-Service
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/modelscope/modelscope/pull/1808">#1808</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/expression-jamsession.png" width="40" height="40" alt="jamsession">
+        <strong><a href="https://github.com/mapbox/expression-jamsession">mapbox/expression-jamsession</a></strong><br>
+        Mapbox GL expressions in a familiar syntax
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/mapbox/expression-jamsession/pull/40">#40</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/php-barcode-generator.png" width="40" height="40" alt="barcode">
+        <strong><a href="https://github.com/picqer/php-barcode-generator">picqer/php-barcode-generator</a></strong><br>
+        Barcode generator for PHP
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/picqer/php-barcode-generator/pull/227">#227</a>
+      </td>
+    </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/secure.png" width="40" height="40" alt="secure">
+        <strong><a href="https://github.com/unrolled/secure">unrolled/secure</a></strong><br>
+        HTTP middleware for Go security headers
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/unrolled/secure/pull/107">#107</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
