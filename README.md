@@ -1956,6 +1956,16 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/unrolled/secure/pull/107">#107</a>
       </td>
     </tr>
+    <tr>
+      <td valign="middle">
+        <img src="logos/go-diff.png" width="40" height="40" alt="go-diff">
+        <strong><a href="https://github.com/sourcegraph/go-diff">sourcegraph/go-diff</a></strong><br>
+        Unified diff parser and printer for Go
+      </td>
+      <td valign="middle">
+        <a href="https://github.com/sourcegraph/go-diff/pull/100">#100</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
