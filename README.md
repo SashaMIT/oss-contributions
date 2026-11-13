@@ -100,7 +100,8 @@ Merged only. Detail lives on each PR.
         <a href="https://github.com/NVIDIA/garak/pull/2255">garak#2255</a> ·
         <a href="https://github.com/NVIDIA/nvidia-container-toolkit/pull/2117">nvidia-container-toolkit#2117</a> ·
         <a href="https://github.com/NVIDIA-NeMo/Curator/pull/2468">Curator#2468</a> ·
-        <a href="https://github.com/NVIDIA/k8s-test-infra/pull/972">k8s-test-infra#972</a>
+        <a href="https://github.com/NVIDIA/k8s-test-infra/pull/972">k8s-test-infra#972</a> ·
+        <a href="https://github.com/NVIDIA/DALI/pull/6515">DALI#6515</a>
       </td>
     </tr>
     <tr>
